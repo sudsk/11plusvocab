@@ -544,11 +544,7 @@ const vocabularyWords = [
     definition: 'An independent person who thinks and acts differently from others',
     example: 'Steve Jobs was known as a maverick in the tech industry.',
     partOfSpeech: 'noun'
-  }
-];
-
-// Extended word list (the rest of the words)
-const extendedVocabularyWords = [
+  },
   {
     word: 'lurid',
     definition: 'Shocking or vivid in a distasteful way',
