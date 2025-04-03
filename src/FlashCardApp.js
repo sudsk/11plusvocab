@@ -3,6 +3,432 @@ import React, { useState } from 'react';
 const FlashCardApp = () => {
   const vocabularyWords = [
     {
+      word: 'khaki',
+      definition: 'A light yellowish-brown color; or a strong cotton fabric of this color often used for military uniforms',
+      example: 'He wore khaki shorts and a white t-shirt for the safari.',
+      partOfSpeech: 'noun/adjective'
+    },
+    {
+      word: 'solicitor',
+      definition: 'A type of lawyer who gives legal advice and prepares legal documents',
+      example: 'They consulted a solicitor about buying the property.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'jaded',
+      definition: 'Tired, bored, or lacking enthusiasm, typically after having too much of something',
+      example: 'The jaded food critic had eaten at so many restaurants that nothing impressed him anymore.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'flounder',
+      definition: 'To struggle mentally; to have difficulty doing something; or a type of flat fish',
+      example: 'He floundered when trying to answer the difficult question.',
+      partOfSpeech: 'verb/noun'
+    },
+    {
+      word: 'implicit',
+      definition: 'Suggested or understood without being directly stated',
+      example: 'There was an implicit agreement between them to never discuss the incident.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'poignant',
+      definition: 'Evoking a keen sense of sadness or regret; touching or moving',
+      example: 'The film tells a poignant story about a family separated by war.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'irrational',
+      definition: 'Not logical or reasonable; not based on reason',
+      example: 'Her fear of harmless garden spiders was irrational but real.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'bashful',
+      definition: 'Shy and easily embarrassed',
+      example: 'The bashful child hid behind his mother when introduced to strangers.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'muscular',
+      definition: 'Having well-developed muscles; strong and powerful',
+      example: 'The athlete had a muscular build from years of training.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'flawless',
+      definition: 'Perfect, without any defects or weaknesses',
+      example: 'The diamond was completely flawless and worth a fortune.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'novel',
+      definition: 'New and not previously known; or a fictional book of substantial length',
+      example: 'Scientists discovered a novel way to produce clean energy.',
+      partOfSpeech: 'adjective/noun'
+    },
+    {
+      word: 'pompous',
+      definition: 'Self-important or arrogant; showing an exaggerated sense of self-importance',
+      example: 'The pompous official insisted on being addressed by his full title.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'combat',
+      definition: 'Fighting or a battle, especially during war',
+      example: 'The soldiers trained for combat in harsh conditions.',
+      partOfSpeech: 'noun/verb'
+    },
+    {
+      word: 'turnabout',
+      definition: 'A complete change of direction or opinion',
+      example: 'Her turnabout on the issue surprised everyone who knew her.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'grievance',
+      definition: 'A real or imagined cause for complaint, especially unfair treatment',
+      example: 'The employee filed a grievance about workplace discrimination.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'thaw',
+      definition: 'To become warm enough for ice or snow to melt; or to become more friendly',
+      example: 'Relations between the two countries began to thaw after years of tension.',
+      partOfSpeech: 'verb/noun'
+    },
+    {
+      word: 'rejoice',
+      definition: 'To feel or show great joy or delight',
+      example: 'The whole town rejoiced when the local team won the championship.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'flustered',
+      definition: 'Agitated, confused, or bothered',
+      example: 'She became flustered when asked to speak in front of the large audience.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'obsequiousness',
+      definition: 'Obedient or attentive to an excessive or servile degree',
+      example: 'His obsequiousness toward the boss made his colleagues uncomfortable.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'passive',
+      definition: 'Accepting or allowing what happens without active response or resistance',
+      example: 'He took a passive role in the discussion, listening but rarely speaking.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'refined',
+      definition: 'Elegant and cultured in appearance, manner, or taste; or purified',
+      example: 'She had a refined appreciation for classical music.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'watertight',
+      definition: 'So tightly made or fitted that water cannot enter or escape',
+      example: 'The submarine had to be completely watertight to operate safely.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'squander',
+      definition: 'To waste something, especially money or opportunities, in a reckless way',
+      example: 'He squandered his inheritance on expensive cars and parties.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'innovation',
+      definition: 'A new method, idea, or product',
+      example: 'The company is known for innovation in smartphone technology.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'barge',
+      definition: 'A flat-bottomed boat for carrying freight; or to move forcefully or rudely',
+      example: 'He barged into the room without knocking.',
+      partOfSpeech: 'noun/verb'
+    },
+    {
+      word: 'meteorological spring',
+      definition: 'The season defined by weather professionals based on temperature patterns, typically March to May in the Northern Hemisphere',
+      example: 'Meteorological spring begins on March 1, while astronomical spring starts on the equinox.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'understate',
+      definition: 'To describe something as less important or serious than it really is',
+      example: 'To say he was "a bit upset" was to understate how angry he actually felt.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'inhibit',
+      definition: 'To restrain, block, or suppress an action or process',
+      example: 'The medication works by inhibiting the growth of bacteria.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'novice',
+      definition: 'A person who is new to and inexperienced in a job, situation, or activity',
+      example: 'As a novice skier, she stayed on the beginner slopes.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'neophyte',
+      definition: 'A beginner or a person who is new to a subject or activity',
+      example: 'He was a neophyte in politics when he first ran for office.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'Abyssinian',
+      definition: 'Relating to Abyssinia (now Ethiopia); or a breed of slender, short-haired cat',
+      example: 'The Abyssinian cat is known for its ticked coat pattern and playful personality.',
+      partOfSpeech: 'adjective/noun'
+    },
+    {
+      word: 'territorial',
+      definition: 'Relating to the ownership of an area of land; or aggressively defending what one perceives as one\'s territory',
+      example: 'The dog was very territorial and barked at anyone who came near the yard.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'idiosyncrasy',
+      definition: 'A peculiar or individual characteristic, habit, or mannerism',
+      example: 'One of his idiosyncrasies was always arranging his books by color rather than by author.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'pretentious',
+      definition: 'Attempting to impress by affecting greater importance or merit than is actually possessed',
+      example: 'His pretentious remarks about fine wine showed he knew little about the subject.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'consonance',
+      definition: 'Agreement or harmony between opinions or actions; or repetition of consonant sounds in writing',
+      example: 'The repeated "s" sounds create consonance in the phrase "sweet silent sleep."',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'idiom',
+      definition: 'A group of words with a meaning that is different from the meanings of the individual words',
+      example: '"Under the weather" is an idiom that means feeling ill.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'confine',
+      definition: 'To keep or restrict someone or something within certain limits of space, scope, or time',
+      example: 'The prisoner was confined to a small cell.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'feasible',
+      definition: 'Possible to do easily or conveniently; likely to work or be achieved',
+      example: 'The engineer determined that the bridge design was feasible with the available materials.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'attainable',
+      definition: 'Able to be achieved, accomplished, or acquired',
+      example: 'With hard work, her goals were entirely attainable.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'cheddar',
+      definition: 'A hard, yellow cheese originally made in the village of Cheddar in England',
+      example: 'He sprinkled grated cheddar over the top of the casserole.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'faze',
+      definition: 'To disturb, disconcert, or daunt; to cause to be confused or perplexed',
+      example: 'The tough questions from the audience didn\'t faze the experienced speaker.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'negate',
+      definition: 'To deny the existence or truth of; to make ineffective or invalid',
+      example: 'His later actions negated his earlier apology.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'conducive',
+      definition: 'Making a certain situation or outcome likely or possible',
+      example: 'A quiet environment is conducive to studying effectively.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'psoriasis',
+      definition: 'A skin disease that causes red, itchy, scaly patches',
+      example: 'She used a special cream to treat the psoriasis on her elbows.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'volatile',
+      definition: 'Likely to change suddenly and unexpectedly, especially for the worse; or easily evaporating',
+      example: 'The political situation remained volatile throughout the election.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'windfall',
+      definition: 'An unexpected piece of good fortune, especially a large amount of money',
+      example: 'The tax refund was a welcome windfall that helped pay off their debts.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'scissors',
+      definition: 'A cutting instrument having two blades whose cutting edges slide past each other',
+      example: 'She used scissors to cut the paper into shapes.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'grimaced',
+      definition: 'Made an ugly, twisted expression on one\'s face expressing disgust, pain, or displeasure',
+      example: 'He grimaced when he tasted the sour lemon.',
+      partOfSpeech: 'verb (past tense)'
+    },
+    {
+      word: 'wince',
+      definition: 'To make a slight involuntary grimace or shrinking movement due to pain or distress',
+      example: 'She couldn\'t help but wince when the doctor gave her the injection.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'deviant',
+      definition: 'Departing from usual or accepted standards, especially in social or sexual behavior',
+      example: 'His deviant behavior made him an outcast in the community.',
+      partOfSpeech: 'adjective/noun'
+    },
+    {
+      word: 'reprobate',
+      definition: 'An unprincipled person; someone rejected by God',
+      example: 'The old reprobate was known throughout town for his bad behavior.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'trailblazer',
+      definition: 'A person who makes a new track through wild country; a pioneer or innovator',
+      example: 'She was a trailblazer for women\'s rights in the 1960s.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'domestic',
+      definition: 'Relating to the running of a home or to family relations; or existing or occurring inside a particular country',
+      example: 'He took care of all the domestic chores while his wife was away.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'beast of burden',
+      definition: 'An animal used to carry heavy loads or perform other heavy work',
+      example: 'The donkey has been used as a beast of burden for thousands of years.',
+      partOfSpeech: 'noun phrase'
+    },
+    {
+      word: 'in the doghouse',
+      definition: 'In trouble or disfavor with someone, especially after doing something wrong',
+      example: 'He was in the doghouse with his wife after forgetting their anniversary.',
+      partOfSpeech: 'idiom'
+    },
+    {
+      word: 'against the clock',
+      definition: 'With a limited amount of time available; in a race with time',
+      example: 'The team worked against the clock to finish the project before the deadline.',
+      partOfSpeech: 'idiom'
+    },
+    {
+      word: 'quaff',
+      definition: 'To drink (something, especially an alcoholic drink) heartily',
+      example: 'The thirsty hikers quaffed their water after reaching the summit.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'hearty',
+      definition: 'Showing warm and heartfelt friendliness; or substantial, abundant, and filling (of food)',
+      example: 'After the hike, they enjoyed a hearty meal of stew and bread.',
+      partOfSpeech: 'adjective'
+    },
+    {
+      word: 'writhe',
+      definition: 'To twist or contort the body, usually in pain',
+      example: 'He writhed in agony after spraining his ankle.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'wield',
+      definition: 'To hold and use (a weapon or tool); or to have and use (power or influence)',
+      example: 'The knight wielded his sword against the dragon.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'heave',
+      definition: 'To lift or haul something heavy with great effort; or to rise and fall rhythmically',
+      example: 'It took three people to heave the piano up the stairs.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'mope',
+      definition: 'To be dejected and apathetic; to sulk',
+      example: 'After losing the game, he spent the evening moping in his room.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'wade',
+      definition: 'To walk through water, mud, or another substance that impedes movement',
+      example: 'They had to wade across the shallow stream to reach the other side.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'confiscate',
+      definition: 'To take or seize someone\'s property with authority',
+      example: 'The teacher confiscated the cell phones during the exam.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'preen',
+      definition: 'To clean or arrange one\'s feathers with the beak (of a bird); or to devote effort to making oneself look attractive',
+      example: 'The peacock preened its feathers in a magnificent display.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'hoist',
+      definition: 'To raise or lift, especially by means of ropes or pulleys',
+      example: 'The sailors hoisted the flag up the mast.',
+      partOfSpeech: 'verb'
+    },
+    {
+      word: 'calligraphy',
+      definition: 'The art of beautiful handwriting',
+      example: 'She studied calligraphy and created elegant wedding invitations.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'concertina',
+      definition: 'A small musical instrument similar to an accordion; or to fold or collapse in a manner resembling a concertina',
+      example: 'The pages of the book concertina out to reveal a 3D scene.',
+      partOfSpeech: 'noun/verb'
+    },
+    {
+      word: 'pendant',
+      definition: 'A piece of jewelry that hangs from a chain worn around the neck',
+      example: 'She wore a gold heart pendant that belonged to her grandmother.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'archery',
+      definition: 'The sport or practice of shooting with a bow and arrows',
+      example: 'She took up archery and soon became skilled at hitting the target.',
+      partOfSpeech: 'noun'
+    },
+    {
+      word: 'snake charmer',
+      definition: 'A person who appears to hypnotize or control a snake, usually by playing music',
+      example: 'The tourists watched in amazement as the snake charmer played his flute.',
+      partOfSpeech: 'noun'
+    },      
+    {
       word: 'errand',
       definition: 'A short trip to do a specific task, usually for someone else',
       example: 'Mom asked me to run an errand to the grocery store.',
