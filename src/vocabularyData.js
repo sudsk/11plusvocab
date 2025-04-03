@@ -952,6 +952,624 @@ const vocabularyWords = [
     definition: 'To shake with a quivering motion; or to be indecisive',
     example: 'Her voice began to waver when she became nervous.',
     partOfSpeech: 'verb'
+  },
+  {
+    word: 'scrutinise',
+    definition: 'To examine something in detail and very carefully',
+    example: 'The scientist scrutinised the sample under a microscope.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'tuxedo',
+    definition: 'A formal evening suit for men, typically with a black jacket and trousers, white shirt, and bow tie',
+    example: 'He wore a black tuxedo to the wedding.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'monk',
+    definition: 'A member of a religious community of men living under vows of poverty, chastity, and obedience',
+    example: 'The monk spent hours each day in silent meditation.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'maggot',
+    definition: 'The larva of a fly that feeds on decaying flesh or waste',
+    example: 'Maggots had begun to appear in the old food.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'obliged',
+    definition: 'Feeling or being indebted to someone for a favor or service',
+    example: 'I\'m much obliged to you for your help.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'displease',
+    definition: 'To cause someone to feel annoyed or unhappy',
+    example: 'His rude comments displeased the teacher.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'avid',
+    definition: 'Having or showing a keen interest in or enthusiasm for something',
+    example: 'She is an avid reader and finishes several books each week.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'trinket',
+    definition: 'A small ornament or item of jewelry that is of little value',
+    example: 'She collected trinkets from every country she visited.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'perpetrator',
+    definition: 'A person who carries out a harmful or illegal act',
+    example: 'The police are still searching for the perpetrator of the crime.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'coarse',
+    definition: 'Rough or harsh in texture, appearance, or quality',
+    example: 'His skin became coarse from years of outdoor work.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'sole',
+    definition: 'Being the only one; single',
+    example: 'She was the sole survivor of the accident.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'altar',
+    definition: 'A table or raised structure where religious ceremonies are performed',
+    example: 'The bride and groom stood at the altar to exchange their vows.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'alter',
+    definition: 'To change or make different in some way',
+    example: 'They had to alter their plans because of the bad weather.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'mourning',
+    definition: 'The expression of deep sorrow for someone who has died',
+    example: 'The family wore black during the period of mourning.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'desert',
+    definition: 'A dry, barren area of land with little or no vegetation; or to abandon someone or something',
+    example: 'The Sahara is the largest hot desert in the world.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'flop',
+    definition: 'To fall or drop heavily and clumsily; or a complete failure',
+    example: 'The tired dog flopped down onto its bed.',
+    partOfSpeech: 'verb/noun'
+  },
+  {
+    word: 'winsome',
+    definition: 'Attractive or appealing in a fresh, innocent way',
+    example: 'The child\'s winsome smile captured everyone\'s heart.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'eschews',
+    definition: 'Deliberately avoids or keeps away from something',
+    example: 'She eschews social media, preferring face-to-face conversations.',
+    partOfSpeech: 'verb (third person)'
+  },
+  {
+    word: 'abstain',
+    definition: 'To restrain oneself from doing or enjoying something',
+    example: 'He decided to abstain from eating sweets during the month.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'fixate',
+    definition: 'To become obsessively concerned with or focused on something',
+    example: 'Children sometimes fixate on certain toys or characters.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'intrepid',
+    definition: 'Fearless and adventurous; not afraid of danger or difficulty',
+    example: 'The intrepid explorer ventured into unknown territories.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'loathe',
+    definition: 'To feel intense dislike or disgust for',
+    example: 'He loathes having to wake up early in the morning.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'amiable',
+    definition: 'Having or displaying a friendly and pleasant manner',
+    example: 'Her amiable personality made her popular with everyone.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'obsessive',
+    definition: 'Thinking about something or someone constantly in a way that is not normal',
+    example: 'His obsessive attention to detail made him an excellent editor.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'preoccupied',
+    definition: 'So concerned with something that you do not notice other things',
+    example: 'She was too preoccupied with her work to notice the time passing.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'engrossed',
+    definition: 'Having all your attention or interest absorbed by someone or something',
+    example: 'The children were completely engrossed in the story.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'dauntless',
+    definition: 'Showing fearlessness and determination',
+    example: 'The dauntless firefighter rushed into the burning building.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'resolutely',
+    definition: 'In a way that shows firm determination',
+    example: 'She resolutely refused to change her decision.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'sagacity',
+    definition: 'The quality of being wise or having good judgment',
+    example: 'The elderly woman was known for her sagacity in solving complex problems.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'proscribe',
+    definition: 'To forbid or condemn, especially by official order',
+    example: 'The government proscribed the use of certain chemicals in food products.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'burnished',
+    definition: 'Polished by rubbing, especially with a cloth; made smooth and shiny',
+    example: 'The burnished wood gleamed in the sunlight.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'alacrity',
+    definition: 'Brisk and cheerful readiness or eagerness',
+    example: 'She accepted the challenge with alacrity.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'reluctant',
+    definition: 'Unwilling and hesitant; disinclined',
+    example: 'He was reluctant to share his personal information with strangers.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'fractious',
+    definition: 'Easily irritated; bad-tempered or irritable',
+    example: 'The children became fractious when they were tired.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'inquisitive',
+    definition: 'Having or showing an interest in learning things; curious',
+    example: 'The inquisitive child asked endless questions about how things worked.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'credulity',
+    definition: 'A tendency to be too ready to believe that something is real or true',
+    example: 'The scammer took advantage of the elderly man\'s credulity.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'effulgent',
+    definition: 'Shining brightly; radiant',
+    example: 'The effulgent rays of the morning sun streamed through the window.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'effrontery',
+    definition: 'Insolent or impertinent behavior; shameless boldness',
+    example: 'He had the effrontery to suggest that I was lying.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'wretched',
+    definition: 'Very unhappy, unfortunate, or miserable; or of poor quality or condition',
+    example: 'The refugees lived in wretched conditions in the camp.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'vague',
+    definition: 'Not clearly expressed, understood, or thought out',
+    example: 'She gave only a vague description of the man she saw.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'ambiguous',
+    definition: 'Open to more than one interpretation; not having one obvious meaning',
+    example: 'His ambiguous response left us wondering what he really meant.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'rogue',
+    definition: 'A dishonest or unprincipled person; or something operating outside normal or desirable controls',
+    example: 'The rogue trader lost millions of dollars for the bank.',
+    partOfSpeech: 'noun/adjective'
+  },
+  {
+    word: 'vogue',
+    definition: 'The prevailing fashion or style at a particular time',
+    example: 'Bell-bottom jeans were in vogue during the 1970s.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'intricate',
+    definition: 'Very complicated or detailed',
+    example: 'The watch had an intricate mechanism of tiny gears and springs.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'complexly',
+    definition: 'In a way that consists of many different and connected parts',
+    example: 'The political situation was complexly intertwined with economic factors.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'interrelating',
+    definition: 'Causing two or more things to be connected in a way that they affect each other',
+    example: 'The professor explained the interrelating factors that led to the historical event.',
+    partOfSpeech: 'verb (present participle)'
+  },
+  {
+    word: 'disinclined',
+    definition: 'Unwilling or reluctant to do something',
+    example: 'After a long day at work, he was disinclined to go out for dinner.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'averse',
+    definition: 'Having a strong dislike of or opposition to something',
+    example: 'She is not averse to taking risks when necessary.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'repugnance',
+    definition: 'Strong dislike, distaste, or hostility',
+    example: 'He felt repugnance at the thought of eating raw fish.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'antipathy',
+    definition: 'A deep-seated feeling of dislike or aversion',
+    example: 'There was a mutual antipathy between the two colleagues.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'strenuous',
+    definition: 'Requiring or using great exertion or effort',
+    example: 'The hike up the mountain was strenuous but rewarding.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'vigorous',
+    definition: 'Strong, healthy, and full of energy',
+    example: 'The plants showed vigorous growth after the rain.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'exasperation',
+    definition: 'A feeling of intense irritation or annoyance',
+    example: 'She sighed in exasperation when the computer crashed again.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'distress',
+    definition: 'Extreme anxiety, sorrow, or pain',
+    example: 'The news of the accident caused great distress to the family.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'ecstatic',
+    definition: 'Feeling or expressing overwhelming happiness or joyful excitement',
+    example: 'The fans were ecstatic when their team won the championship.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'incoherent',
+    definition: 'Expressed in an incomprehensible or confusing way; unclear',
+    example: 'His explanation was so incoherent that nobody understood it.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'emitted',
+    definition: 'Produced and discharged something, especially gas, radiation, or sound',
+    example: 'The factory emitted large amounts of smoke into the air.',
+    partOfSpeech: 'verb (past tense)'
+  },
+  {
+    word: 'tolerance',
+    definition: 'The ability or willingness to accept something, especially opinions or behavior, that you may not agree with',
+    example: 'The community prides itself on its tolerance of different cultures.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'adolescent',
+    definition: 'A young person in the process of developing from a child into an adult',
+    example: 'Adolescents often experience mood swings due to hormonal changes.',
+    partOfSpeech: 'noun/adjective'
+  },
+  {
+    word: 'defendant',
+    definition: 'A person accused of a crime in a court of law',
+    example: 'The defendant pleaded not guilty to all charges.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'benign',
+    definition: 'Gentle and kind; not harmful or malicious',
+    example: 'The tumor was found to be benign, not cancerous.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'ample',
+    definition: 'Enough or more than enough; plentiful',
+    example: 'There was ample food for everyone at the party.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'copious',
+    definition: 'Abundant in supply or quantity',
+    example: 'She took copious notes during the lecture.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'abundant',
+    definition: 'Existing or available in large quantities; plentiful',
+    example: 'The region is known for its abundant natural resources.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'anguish',
+    definition: 'Severe mental or physical pain or suffering',
+    example: 'The mother felt anguish when her child went missing.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'radiant',
+    definition: 'Sending out light; shining or glowing brightly',
+    example: 'The bride looked radiant in her wedding dress.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'radiance',
+    definition: 'Light or heat as emitted or reflected by something',
+    example: 'The radiance of the sunset filled the sky with golden colors.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'tendency',
+    definition: 'An inclination toward a particular characteristic or type of behavior',
+    example: 'He has a tendency to interrupt people when they\'re speaking.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'tenacity',
+    definition: 'The quality of being very determined; persistence',
+    example: 'Her tenacity helped her overcome many obstacles in life.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'inclination',
+    definition: 'A person\'s natural tendency or urge to act or feel in a particular way',
+    example: 'She had no inclination to study medicine despite her parents\' wishes.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'exertion',
+    definition: 'Physical or mental effort',
+    example: 'The climb required considerable physical exertion.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'laborious',
+    definition: 'Requiring considerable time and effort',
+    example: 'Transcribing the old manuscripts was a laborious task.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'contrived',
+    definition: 'Deliberately created rather than arising naturally or spontaneously',
+    example: 'The plot of the movie seemed contrived and unconvincing.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'expend',
+    definition: 'To use up a resource such as money, energy or time',
+    example: 'Don\'t expend all your energy at the beginning of the race.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'foresight',
+    definition: 'The ability to predict what will happen or be needed in the future',
+    example: 'He had the foresight to invest in technology companies before they became popular.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'hindsight',
+    definition: 'Understanding of a situation or event only after it has happened',
+    example: 'In hindsight, we should have taken a different approach.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'provision',
+    definition: 'The action of providing or supplying something for use',
+    example: 'The provision of clean water is essential for public health.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'purveying',
+    definition: 'Providing or supplying something, especially food or provisions',
+    example: 'The company specializes in purveying fine wines to restaurants.',
+    partOfSpeech: 'verb (present participle)'
+  },
+  {
+    word: 'amenities',
+    definition: 'Desirable or useful features of a place that make it pleasant or comfortable',
+    example: 'The hotel offers many amenities, including a swimming pool and fitness center.',
+    partOfSpeech: 'noun (plural)'
+  },
+  {
+    word: 'conventional',
+    definition: 'Based on or in accordance with what is generally done or believed',
+    example: 'She rejected conventional medicine in favor of alternative treatments.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'prudence',
+    definition: 'Care and good sense that someone shows when making decisions',
+    example: 'Financial prudence is important when planning for retirement.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'prescience',
+    definition: 'Knowledge of things before they happen; foresight',
+    example: 'His prescience about market trends made him a successful investor.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'implant',
+    definition: 'To insert or fix something in a specified place',
+    example: 'The surgeon will implant an artificial hip joint.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'recondite',
+    definition: 'Little known or difficult to understand; abstruse',
+    example: 'His lectures on philosophy were filled with recondite terminology.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'liberal',
+    definition: 'Willing to respect or accept behavior or opinions different from one\'s own; open to new ideas',
+    example: 'Her parents had liberal views on education.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'benevolent',
+    definition: 'Well-meaning and kindly',
+    example: 'The benevolent donor gave money to build a new children\'s hospital.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'condolence',
+    definition: 'An expression of sympathy with someone who is suffering sorrow, misfortune, or grief',
+    example: 'They sent a card of condolence when his mother died.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'indifferent',
+    definition: 'Having no particular interest or concern; neither good nor bad',
+    example: 'She was indifferent to the criticism and continued with her plans.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'pledge',
+    definition: 'A solemn promise or undertaking; or something given as security for a loan',
+    example: 'The politician made a pledge to reduce taxes if elected.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'matted',
+    definition: 'Tangled into a thick mass',
+    example: 'The dog\'s fur was matted with mud after the walk.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'pristine',
+    definition: 'In its original condition; unspoiled',
+    example: 'The island\'s beaches remained in pristine condition.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'plausible',
+    definition: 'Seeming reasonable or probable',
+    example: 'His explanation was plausible but later turned out to be false.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'marvel',
+    definition: 'To be filled with wonder or astonishment; or something that causes such feelings',
+    example: 'Visitors marvel at the beauty of the ancient temple.',
+    partOfSpeech: 'verb/noun'
+  },
+  {
+    word: 'onslaught',
+    definition: 'A fierce or destructive attack',
+    example: 'The castle walls withstood the onslaught of the enemy army.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'meek',
+    definition: 'Quiet, gentle, and easily imposed on; submissive',
+    example: 'Despite his meek appearance, he had a strong personality.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'docile',
+    definition: 'Ready to accept control or instruction; submissive',
+    example: 'The horse was docile and easy to train.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'peculiar',
+    definition: 'Strange or unusual; different from what is normal or expected',
+    example: 'There was a peculiar smell coming from the kitchen.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'oversight',
+    definition: 'An unintentional failure to notice or do something; or supervision and watchful care',
+    example: 'Not inviting him to the meeting was an oversight, not a deliberate exclusion.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'goodwill',
+    definition: 'Friendly, helpful, or cooperative feelings or attitude',
+    example: 'The company has built up a lot of goodwill among its customers.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'conspiracy',
+    definition: 'A secret plan by a group to do something unlawful or harmful',
+    example: 'The police uncovered a conspiracy to assassinate the president.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'hostile',
+    definition: 'Showing or feeling opposition or dislike; unfriendly',
+    example: 'The crowd became hostile when the team began to lose.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'hectic',
+    definition: 'Full of incessant or frantic activity',
+    example: 'It was a hectic day at the office with endless meetings and phone calls.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'serene',
+    definition: 'Calm, peaceful, and untroubled; tranquil',
+    example: 'The lake looked serene in the early morning light.',
+    partOfSpeech: 'adjective'
   }
 ];
 
