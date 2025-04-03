@@ -597,7 +597,7 @@ const FlashCardApp = () => {
       
       {!showList ? (
         <div className="w-full max-w-lg">
-          <div className="bg-white rounded-lg shadow-lg overflow-hidden border-2 border-gray-300 h-64 flex flex-col">
+          <div className="bg-white rounded-lg shadow-lg overflow-hidden border-2 border-gray-300 flex flex-col min-h-64">
             <div className="bg-gray-200 px-4 py-2 text-sm text-gray-600">
               Card {currentIndex + 1} of {allWords.length}
             </div>
