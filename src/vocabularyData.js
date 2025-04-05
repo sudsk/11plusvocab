@@ -2548,6 +2548,1026 @@ const vocabularyWords = [
     definition: 'Not openly acknowledged or displayed; secret',
     example: 'The spy was involved in covert operations for many years.',
     partOfSpeech: 'adjective'
+  },
+  {
+    word: 'vertebrae',
+    definition: 'The series of small bones forming the backbone',
+    example: 'The doctor examined the X-ray to check for damage to the vertebrae in her spine.',
+    partOfSpeech: 'noun (plural)'
+  },
+  {
+    word: 'foment',
+    definition: 'To instigate or stir up (an undesirable situation)',
+    example: 'The politician was accused of trying to foment discord among different community groups.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'adulterate',
+    definition: 'To make something poorer in quality by adding another substance',
+    example: 'Some companies illegally adulterate their food products with cheaper ingredients.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'queasiness',
+    definition: 'A feeling of nausea or being sick to one\'s stomach',
+    example: 'The rough boat ride caused queasiness among many of the passengers.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'tolerate',
+    definition: 'To allow the existence or occurrence of something without interference',
+    example: 'She could not tolerate any form of dishonesty in her classroom.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'tranquil',
+    definition: 'Free from disturbance; calm and peaceful',
+    example: 'The lake was tranquil, with not even a ripple disturbing its surface.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'coerce',
+    definition: 'To persuade someone to do something by using force or threats',
+    example: 'The witness claimed she was coerced into giving false testimony.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'coercion',
+    definition: 'The practice of forcing someone to do something by using threats or violence',
+    example: 'The confession was obtained through coercion and was therefore inadmissible in court.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'urban',
+    definition: 'Relating to or characteristic of a town or city',
+    example: 'Urban areas typically have higher population densities than rural ones.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'criticism',
+    definition: 'The expression of disapproval based on perceived faults or mistakes',
+    example: 'She offered constructive criticism to help improve the project.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'putrid',
+    definition: 'Decaying or rotting and having a foul smell',
+    example: 'The putrid odor from the garbage bin filled the alleyway.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'inhospitable',
+    definition: 'Not friendly or welcoming to visitors or guests; harsh and difficult to live in',
+    example: 'The desert is an inhospitable environment for most plants.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'inauthentic',
+    definition: 'Not genuine or real; fake or false',
+    example: 'The expert identified the painting as an inauthentic copy of the original.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'inexpensive',
+    definition: 'Not costing a lot of money; affordable',
+    example: 'They found an inexpensive hotel for their vacation.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'proposal',
+    definition: 'A plan or suggestion put forward for consideration',
+    example: 'The committee will review the proposal for the new park next week.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'dissent',
+    definition: 'The expression of opinions that disagree with officially accepted ideas',
+    example: 'The teacher encouraged students to voice their dissent during class discussions.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'consent',
+    definition: 'Permission or agreement to do something',
+    example: 'The parents gave their consent for the child to go on the field trip.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'jovial',
+    definition: 'Cheerful and friendly',
+    example: 'The jovial host made everyone feel welcome at the party.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'sympathy',
+    definition: 'Feelings of pity and sorrow for someone else\'s misfortune',
+    example: 'They expressed their sympathy to the family after hearing about the accident.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'aversion',
+    definition: 'A strong dislike or disinclination',
+    example: 'She has an aversion to spicy food and avoids it completely.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'coracle',
+    definition: 'A small, round boat made of wickerwork covered with a waterproof material, traditionally used in Wales',
+    example: 'The fisherman used a coracle to navigate the shallow waters of the river.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'conspicuous',
+    definition: 'Easily seen or noticed; attracting attention',
+    example: 'His bright orange hat made him conspicuous in the crowd.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'extravagance',
+    definition: 'The quality of being showy, unnecessary or wasteful; lack of restraint in spending money',
+    example: 'The golden taps in the bathroom were seen as an unnecessary extravagance.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'disgruntled',
+    definition: 'Angry or dissatisfied',
+    example: 'The disgruntled employees filed a complaint about working conditions.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'manila',
+    definition: 'A type of durable paper or envelope made from hemp, used for folders or heavy paper work',
+    example: 'She filed the documents in a manila folder for safekeeping.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'brigand',
+    definition: 'A member of a gang that ambushes and robs people; a bandit',
+    example: 'In the story, the travelers were attacked by brigands on the mountain pass.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'gawping',
+    definition: 'Staring in a stupid or rude manner, often with the mouth open',
+    example: 'The tourists were gawping at the unusual street performer.',
+    partOfSpeech: 'verb (present participle)'
+  },
+  {
+    word: 'carnage',
+    definition: 'The killing of a large number of people; slaughter',
+    example: 'The historical account described the carnage of the ancient battle.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'forlorn',
+    definition: 'Pitifully sad and abandoned or lonely',
+    example: 'The forlorn puppy sat in the corner of its cage at the shelter.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'apprehend',
+    definition: 'To arrest someone for a crime; or to understand or grasp an idea',
+    example: 'The police were able to apprehend the suspect after a brief chase.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'quilts',
+    definition: 'Thick bed coverings made of padding enclosed between layers of fabric and kept in place by lines of stitching',
+    example: 'Grandmother made beautiful handmade quilts for each of her grandchildren.',
+    partOfSpeech: 'noun (plural)'
+  },
+  {
+    word: 'constant',
+    definition: 'Occurring continuously over a period of time; unchanging',
+    example: 'The constant noise from the construction site made it hard to concentrate.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'diligent',
+    definition: 'Having or showing care and conscientiousness in one\'s work or duties',
+    example: 'The diligent student spent extra hours studying for the exam.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'impudent',
+    definition: 'Not showing due respect; impertinent',
+    example: 'The teacher was shocked by the student\'s impudent response to a simple question.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'dishevel',
+    definition: 'To make untidy or disarranged',
+    example: 'The strong wind disheveled her neatly combed hair.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'spouse',
+    definition: 'A husband or wife, considered in relation to their partner',
+    example: 'The invitation was extended to employees and their spouses.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'ally',
+    definition: 'A person, group, or nation that is associated with another for some common cause or purpose',
+    example: 'The two countries became allies during the war.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'corvid',
+    definition: 'A bird of the crow family, including crows, ravens, rooks, jackdaws, jays, and magpies',
+    example: 'Ravens are large corvids known for their intelligence and problem-solving abilities.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'virtue',
+    definition: 'Behavior showing high moral standards; a good or useful quality',
+    example: 'Patience is a virtue when teaching young children.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'obscure',
+    definition: 'Not well known or famous; difficult to understand',
+    example: 'She enjoys reading obscure poetry that few people have heard of.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'obstinate',
+    definition: 'Stubbornly refusing to change one\'s opinion or course of action',
+    example: 'The obstinate child refused to eat his vegetables despite his parents\' persuasion.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'deviousness',
+    definition: 'The quality of being skillful in using dishonest or underhand tactics',
+    example: 'Her deviousness enabled her to manipulate the situation to her advantage.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'guile',
+    definition: 'Sly or cunning intelligence; crafty deceit',
+    example: 'The fox is often portrayed in fables as having great guile.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'exacerbate',
+    definition: 'To make a problem, bad situation, or negative feeling worse',
+    example: 'The harsh criticism only exacerbated his feelings of inadequacy.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'aggravate',
+    definition: 'To make a problem, injury, or offense worse or more serious',
+    example: 'Running will aggravate your knee injury if you don\'t rest it properly.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'mitigate',
+    definition: 'To make less severe, serious, or painful',
+    example: 'Taking medication helped mitigate the symptoms of her cold.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'dear',
+    definition: 'Regarded with deep affection; greatly loved; or expensive',
+    example: 'My dear friend, it\'s been too long since we last spoke.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'flawless',
+    definition: 'Without any imperfections or faults; perfect',
+    example: 'The diamond was completely flawless and worth a fortune.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'effable',
+    definition: 'Able to be described in words',
+    example: 'Some experiences are so profound that they are hardly effable.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'asunder',
+    definition: 'Into pieces; apart',
+    example: 'The explosion tore the building asunder.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'bemused',
+    definition: 'Puzzled, confused, or bewildered',
+    example: 'He had a bemused expression as he tried to follow the complex instructions.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'amuse',
+    definition: 'To cause someone to find something funny or entertaining',
+    example: 'The clown\'s antics amused the children at the party.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'arduous',
+    definition: 'Involving or requiring strenuous effort; difficult and tiring',
+    example: 'The journey across the mountain was arduous but worth it for the view.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'antiquity',
+    definition: 'The ancient past, especially the period before the Middle Ages; an object from ancient times',
+    example: 'The museum contains artifacts from antiquity that are over 3,000 years old.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'milliner',
+    definition: 'A person who makes or sells women\'s hats',
+    example: 'The milliner created an elaborate hat for the customer to wear to the horse race.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'stubbly',
+    definition: 'Covered with or consisting of short, stiff hairs or projections',
+    example: 'His stubbly chin showed he hadn\'t shaved for a couple of days.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'decrepit',
+    definition: 'Worn out or ruined because of age or neglect',
+    example: 'The decrepit old building was scheduled for demolition.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'allure',
+    definition: 'The quality of being powerfully and mysteriously attractive or fascinating',
+    example: 'The allure of foreign travel tempted her to spend her savings on a trip.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'alpine',
+    definition: 'Relating to high mountains, especially the Alps; growing on mountains above the tree line',
+    example: 'Alpine flowers thrive in cold, high-altitude environments.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'animosity',
+    definition: 'Strong hostility or opposition',
+    example: 'Despite years of animosity between them, the two siblings eventually reconciled.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'hostility',
+    definition: 'Unfriendly or antagonistic attitudes or behavior; opposition or resistance',
+    example: 'The hostility between the two neighboring countries has lasted for decades.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'misdemeanour',
+    definition: 'A minor wrongdoing; a minor criminal offense',
+    example: 'Jaywalking is considered a minor misdemeanour in most cities.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'transgression',
+    definition: 'An act that goes against a law, rule, or code of conduct; a sin',
+    example: 'The student apologized for his transgression of the school rules.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'offence',
+    definition: 'An illegal act; a thing causing someone to feel resentful or upset',
+    example: 'He apologized, not wanting to cause any offence by his comments.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'digress',
+    definition: 'To leave the main subject temporarily in speech or writing',
+    example: 'Let me digress for a moment to explain how this technology works.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'blemish',
+    definition: 'A small mark or flaw that spoils the appearance of something',
+    example: 'The car was in perfect condition, without a single blemish.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'kink',
+    definition: 'A sharp twist or curl in something that is otherwise straight; or an unusual or peculiar characteristic',
+    example: 'There was a kink in the garden hose that stopped the water flow.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'abscond',
+    definition: 'To leave hurriedly and secretly, typically to escape from custody or avoid prosecution',
+    example: 'The suspect absconded before the police could arrest him.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'potential',
+    definition: 'Having or showing the capacity to become or develop into something in the future',
+    example: 'The young athlete has the potential to become a champion.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'respite',
+    definition: 'A short period of rest or relief from something difficult or unpleasant',
+    example: 'The cool breeze provided a welcome respite from the summer heat.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'recuperate',
+    definition: 'To recover from illness or exertion',
+    example: 'After the surgery, she took two weeks off work to recuperate.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'deception',
+    definition: 'The act of deliberately causing someone to believe something that is not true',
+    example: 'The magician\'s performance relied on skillful deception to create illusions.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'inception',
+    definition: 'The beginning or founding of something; the establishment',
+    example: 'The company has grown significantly since its inception five years ago.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'boundless',
+    definition: 'Having no bounds; unlimited or immense',
+    example: 'The parent\'s boundless love supported the child through difficult times.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'falter',
+    definition: 'To lose strength or momentum; to hesitate or stumble',
+    example: 'His voice began to falter as he became more nervous during the speech.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'finite',
+    definition: 'Having limits or bounds; not infinite or endless',
+    example: 'We must use our finite resources wisely to ensure they last.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'resonate',
+    definition: 'To produce or be filled with a deep, full, reverberating sound; or to evoke a strong feeling or memory',
+    example: 'His story about overcoming obstacles resonated with the audience.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'prophecy',
+    definition: 'A prediction of what will happen in the future',
+    example: 'According to the ancient prophecy, a great leader would emerge during times of trouble.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'aphid',
+    definition: 'A small sap-sucking insect that commonly attacks vegetation',
+    example: 'The gardener used ladybugs to naturally control aphids on her plants.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'articulate',
+    definition: 'Having or showing the ability to speak fluently and coherently; or to express ideas clearly',
+    example: 'The articulate speaker kept the audience engaged throughout the presentation.',
+    partOfSpeech: 'adjective/verb'
+  },
+  {
+    word: 'ability',
+    definition: 'Possession of the means or skill to do something',
+    example: 'Her ability to solve complex problems quickly impressed her teachers.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'gutless',
+    definition: 'Lacking courage or determination',
+    example: 'It would be gutless to give up without even trying.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'undeterred',
+    definition: 'Not discouraged or prevented from proceeding',
+    example: 'Undeterred by the rain, the hikers continued along the trail.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'enunciate',
+    definition: 'To say or pronounce clearly',
+    example: 'The speech teacher asked students to enunciate each syllable carefully.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'benign',
+    definition: 'Gentle and kind; not harmful or malicious',
+    example: 'The tumor was benign and not a cause for serious concern.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'instill',
+    definition: 'To gradually but firmly establish an idea or attitude in a person\'s mind',
+    example: 'Parents try to instill good values in their children from a young age.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'retort',
+    definition: 'To reply sharply in a witty or angry way',
+    example: 'When criticized, she was quick to retort with a clever comeback.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'commence',
+    definition: 'To begin or start',
+    example: 'The ceremony will commence at noon.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'propagate',
+    definition: 'To breed or multiply by natural reproduction; or to spread and promote an idea or knowledge',
+    example: 'The gardener learned how to propagate plants from cuttings.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'unify',
+    definition: 'To make or become united or uniform',
+    example: 'The leader worked to unify the different factions within the organization.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'terminate',
+    definition: 'To bring to an end; conclude',
+    example: 'The company decided to terminate the project due to budget constraints.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'impersonate',
+    definition: 'To pretend to be another person for entertainment or fraud',
+    example: 'The comedian was skilled at impersonating famous politicians.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'concise',
+    definition: 'Giving a lot of information clearly and in a few words; brief but comprehensive',
+    example: 'The manual provides concise instructions that are easy to follow.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'erroneous',
+    definition: 'Wrong; incorrect',
+    example: 'The newspaper published an erroneous report and later issued a correction.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'embellish',
+    definition: 'To make more attractive by adding ornament, color, etc.; or to make a statement or story more interesting by adding untrue details',
+    example: 'She tended to embellish her travel stories to make them more exciting.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'fortify',
+    definition: 'To strengthen or invigorate; to provide with defensive works',
+    example: 'The walls were fortified to protect the castle from invaders.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'remedy',
+    definition: 'A medicine or treatment for a disease or injury; or a way of solving or correcting a problem',
+    example: 'Regular exercise is a good remedy for stress.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'loiter',
+    definition: 'To stand or wait around idly without apparent purpose',
+    example: 'Signs warned people not to loiter near the entrance to the building.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'apprehension',
+    definition: 'Anxiety or fear that something bad or unpleasant will happen; or understanding',
+    example: 'There was some apprehension among team members about the new project.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'fable',
+    definition: 'A short story, typically with animals as characters, conveying a moral',
+    example: 'Aesop\'s fables have been teaching moral lessons for centuries.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'gratification',
+    definition: 'Pleasure, especially when gained from the satisfaction of a desire',
+    example: 'The immediate gratification of winning was followed by a sense of accomplishment.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'supercalifragilisticexpialidocious',
+    definition: 'Extraordinarily good; wonderful',
+    example: 'In the film Mary Poppins, the magical nanny describes the joy of the fair as being absolutely supercalifragilisticexpialidocious.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'intrigue',
+    definition: 'To arouse the curiosity or interest of; fascinate; or to make secret plans to harm someone',
+    example: 'The mysterious package intrigued everyone in the office.',
+    partOfSpeech: 'verb/noun'
+  },
+  {
+    word: 'arouse',
+    definition: 'To evoke or awaken a feeling, emotion, or response',
+    example: 'The controversial speech aroused strong reactions from the audience.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'metamorphism',
+    definition: 'The process of transformation, especially a change in the structure of rock due to heat or pressure',
+    example: 'Marble is formed by the metamorphism of limestone under intense heat and pressure.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'ambivalent',
+    definition: 'Having mixed feelings or contradictory ideas about something or someone',
+    example: 'She felt ambivalent about moving to a new city—excited for the opportunity but sad to leave friends behind.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'thicket',
+    definition: 'A dense group of bushes or small trees',
+    example: 'The rabbit disappeared into the thicket where the hunters couldn\'t follow.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'Pourquoi Story',
+    definition: 'A fictional narrative that explains why something is the way it is, often found in folklore and children\'s literature',
+    example: 'The pourquoi story explained why the tortoise has a cracked shell.',
+    partOfSpeech: 'noun phrase'
+  },
+  {
+    word: 'caters',
+    definition: 'Provides food and service for an event; or provides what is required or sought',
+    example: 'This restaurant caters for large events like weddings and conferences.',
+    partOfSpeech: 'verb (third person)'
+  },
+  {
+    word: 'semicolon',
+    definition: 'A punctuation mark (;) indicating a pause, typically between two main clauses, that is more pronounced than that indicated by a comma',
+    example: 'The writer used a semicolon to join two closely related independent clauses.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'reported speech',
+    definition: 'The form of language used to communicate what someone else said without quoting them directly',
+    example: 'In reported speech, "I am tired" becomes "He said he was tired."',
+    partOfSpeech: 'noun phrase'
+  },
+  {
+    word: 'blatant',
+    definition: 'Completely obvious and intentional, when referring to bad behavior',
+    example: 'His blatant disregard for the rules resulted in immediate disqualification.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'svelte',
+    definition: 'Slender and elegant',
+    example: 'The dancer had a svelte figure that moved gracefully across the stage.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'botany',
+    definition: 'The scientific study of plants',
+    example: 'She studied botany to learn more about medicinal plants and their properties.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'bountiful',
+    definition: 'Large in quantity; abundant',
+    example: 'The farm produced a bountiful harvest after the rainy season.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'ambient',
+    definition: 'Relating to the immediate surroundings; or creating a particular atmosphere or mood',
+    example: 'The restaurant used ambient lighting to create a relaxed mood.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'compromise',
+    definition: 'An agreement reached by each side making concessions; or to settle a dispute by mutual concession',
+    example: 'Through compromise, the two sides were able to reach an agreement.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'superiority',
+    definition: 'The quality or state of being better, greater, or stronger than others',
+    example: 'The team\'s superiority was evident in their undefeated season.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'weighing up',
+    definition: 'Carefully considering or assessing the relative qualities of something before making a decision',
+    example: 'She spent time weighing up the pros and cons before deciding which job offer to accept.',
+    partOfSpeech: 'verb phrase'
+  },
+  {
+    word: 'despise',
+    definition: 'To feel contempt or a deep repugnance for',
+    example: 'She despises dishonesty in any form.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'scathe',
+    definition: 'To harm, injure, or damage; to criticize severely',
+    example: 'His scathing remarks left her feeling hurt and embarrassed.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'haughty',
+    definition: 'Arrogantly superior and disdainful',
+    example: 'The haughty waiter looked down his nose at customers who didn\'t order expensive wine.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'aloft',
+    definition: 'Up in or into the air; overhead',
+    example: 'The eagle soared aloft on the warm air currents.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'spoof',
+    definition: 'A humorous imitation of something, typically a film or a particular genre of film, in which its characteristic features are exaggerated for comic effect',
+    example: 'The comedy show included a hilarious spoof of popular superhero movies.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'malicious',
+    definition: 'Characterized by malice; intending or intended to do harm',
+    example: 'The virus was designed with malicious intent to steal personal information.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'amicable',
+    definition: 'Characterized by friendliness and absence of serious disagreement',
+    example: 'Despite their divorce, they maintained an amicable relationship for the sake of their children.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'primarily',
+    definition: 'For the most part; mainly',
+    example: 'The museum is primarily used for educational purposes.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'initial',
+    definition: 'Existing or occurring at the beginning',
+    example: 'Her initial reaction was one of shock, but she quickly recovered.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'embed',
+    definition: 'To fix firmly and deeply in a surrounding mass; to incorporate',
+    example: 'The journalist was embedded with troops during the conflict.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'preclude',
+    definition: 'To prevent from happening; make impossible',
+    example: 'His criminal record precluded him from certain types of employment.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'commence',
+    definition: 'To begin or start',
+    example: 'The concert will commence at 8 p.m. sharp.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'conclude',
+    definition: 'To bring to an end; finish; or to reach a judgment or opinion by reasoning',
+    example: 'The meeting concluded with a vote on the proposal.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'slob',
+    definition: 'A person who is lazy and has low standards of cleanliness',
+    example: 'His roommate was a slob who never cleaned up after himself.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'marvelled',
+    definition: 'Was filled with wonder or astonishment',
+    example: 'The tourists marvelled at the magnificent architecture of the ancient temple.',
+    partOfSpeech: 'verb (past tense)'
+  },
+  {
+    word: 'rampant',
+    definition: 'Flourishing or spreading unchecked; unrestrained',
+    example: 'Corruption was rampant throughout the organization.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'denounce',
+    definition: 'To publicly declare to be wrong or evil; censure',
+    example: 'The politician denounced the policy as harmful and unjust.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'condemn',
+    definition: 'To express complete disapproval of; censure; or to sentence to a particular punishment',
+    example: 'The judge condemned the criminal to life in prison.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'rigorous',
+    definition: 'Extremely thorough, exhaustive, or accurate',
+    example: 'The scientist conducted rigorous experiments to test his hypothesis.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'attribute',
+    definition: 'To regard as being caused by; or a quality or feature regarded as a characteristic',
+    example: 'Experts attribute the decline in crime to better community policing.',
+    partOfSpeech: 'verb/noun'
+  },
+  {
+    word: 'painstaking',
+    definition: 'Done with or employing great care and thoroughness',
+    example: 'The restoration of the painting was a painstaking process that took years to complete.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'fauna',
+    definition: 'The animals of a particular region, habitat, or geological period',
+    example: 'The island\'s unique fauna includes several species found nowhere else on Earth.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'flora',
+    definition: 'The plants of a particular region, habitat, or geological period',
+    example: 'Desert flora has adapted to survive in hot, dry conditions.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'blemish',
+    definition: 'A small mark or flaw that spoils the appearance of something',
+    example: 'The car was in excellent condition without a single blemish.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'herbalist',
+    definition: 'A person who practices healing by using herbs and plants',
+    example: 'The herbalist recommended chamomile tea to help with sleep problems.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'geologist',
+    definition: 'A scientist who studies the solid and liquid matter that constitutes the Earth',
+    example: 'The geologist examined the rock formations to determine their age.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'zoologist',
+    definition: 'A scientist who studies the behavior, structure, physiology, classification, and distribution of animals',
+    example: 'As a zoologist, she specialized in the study of primate behavior.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'impose',
+    definition: 'To force or lay (something) on or upon; or to force oneself on others',
+    example: 'The government imposed new taxes on luxury goods.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'fervour',
+    definition: 'Intense and passionate feeling',
+    example: 'The speaker addressed the crowd with religious fervour.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'surreptitious',
+    definition: 'Kept secret, especially because it would not be approved of',
+    example: 'She took a surreptitious glance at the answers when the teacher wasn\'t looking.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'clandestine',
+    definition: 'Kept secret or done secretively, especially because illicit',
+    example: 'The spies held clandestine meetings to exchange information.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'co-write',
+    definition: 'To write something together with another person',
+    example: 'The songwriters decided to co-write the album\'s lead single.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'co-author',
+    definition: 'To be a joint author of a book, paper, or other written work',
+    example: 'The two scientists decided to co-author the research paper.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'invalid',
+    definition: 'Not valid; null; or a person made weak or disabled by illness or injury',
+    example: 'The contract became invalid when he failed to sign it by the deadline.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'fallacious',
+    definition: 'Based on a mistaken belief; logically unsound',
+    example: 'His argument was fallacious because it relied on incorrect assumptions.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'scanty',
+    definition: 'Small or insufficient in quantity or amount',
+    example: 'The evidence against him was too scanty for a conviction.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'realign',
+    definition: 'To change or restore to a different or former position or state',
+    example: 'They had to realign their strategy to adapt to the changing market.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'convince',
+    definition: 'To persuade someone to do something or to believe something is true',
+    example: 'Nothing would convince her to change her mind once it was made up.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'symposium',
+    definition: 'A conference or meeting to discuss a particular subject',
+    example: 'Experts from around the world attended the symposium on climate change.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'possessive pronoun',
+    definition: 'A pronoun that shows ownership, such as "mine," "yours," "his," "hers," "its," "ours," and "theirs"',
+    example: 'In the sentence "That book is mine," the word "mine" is a possessive pronoun.',
+    partOfSpeech: 'noun phrase'
+  },
+  {
+    word: 'proverb',
+    definition: 'A short, well-known pithy saying, stating a general truth or piece of advice',
+    example: '"A stitch in time saves nine" is a proverb about the value of fixing problems early.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'putt',
+    definition: 'A gentle stroke in golf designed to roll the ball into the hole',
+    example: 'He needed just one putt to complete the hole.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'delegate',
+    definition: 'A person sent or authorized to represent others; or to entrust a task to another person',
+    example: 'She learned to delegate responsibilities to her team members.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'convention',
+    definition: 'A way in which something is usually done; or a large meeting of people with a shared interest',
+    example: 'By convention, people shake hands when they meet for the first time in formal situations.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'transitory',
+    definition: 'Not permanent; temporary',
+    example: 'Fame can be transitory, especially in the entertainment industry.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'perpetual',
+    definition: 'Never ending or changing; continuing indefinitely',
+    example: 'The perpetual motion of the ocean waves has inspired many poets.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'intermittent',
+    definition: 'Occurring at irregular intervals; not continuous or steady',
+    example: 'The radio signal was intermittent due to the storm.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'conjugate',
+    definition: 'To give the different forms of a verb in an ordered way; or to join together',
+    example: 'Students learn to conjugate verbs in their different tenses.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'inflect',
+    definition: 'To change the form of a word to express tense, gender, number, mood, etc.',
+    example: 'In English, we inflect verbs to show past tense by usually adding -ed.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'accident-prone',
+    definition: 'Having a tendency to have more accidents than most people',
+    example: 'Her accident-prone nature meant she was always covered in bruises.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'leprechaun',
+    definition: 'A mischievous elf in Irish folklore, often associated with hidden treasure',
+    example: 'In stories, if you catch a leprechaun, he must lead you to his pot of gold.',
+    partOfSpeech: 'noun'
   }
 ];
 
