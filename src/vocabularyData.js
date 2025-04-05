@@ -2338,6 +2338,216 @@ const vocabularyWords = [
     definition: 'To eat something very quickly and in large amounts',
     example: 'The hungry teenagers wolfed down the pizza in minutes.',
     partOfSpeech: 'phrase'
+  },
+  {
+    word: 'acquittal',
+    definition: 'A judgment that a person is not guilty of the crime with which they have been charged',
+    example: 'The jury's acquittal of the defendant surprised many who had followed the trial.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'comprising',
+    definition: 'Consisting of; made up of',
+    example: 'The committee comprising five experts will review the proposal.',
+    partOfSpeech: 'verb (present participle)'
+  },
+  {
+    word: 'lone',
+    definition: 'Single; solitary; being the only one',
+    example: 'A lone figure stood at the edge of the cliff watching the sunset.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'laceration',
+    definition: 'A deep cut or tear in skin or flesh',
+    example: 'The doctor treated the laceration on his arm with several stitches.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'succulent',
+    definition: 'Having thick fleshy leaves that store water; or juicy and tender (of food)',
+    example: 'Cacti are succulent plants adapted to survive in desert conditions.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'meandering',
+    definition: 'Following a winding course; or moving aimlessly from one subject to another',
+    example: 'The river's meandering path created a beautiful landscape.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'conduct',
+    definition: 'The manner in which a person behaves; or to direct the performance of',
+    example: 'His professional conduct was praised by his colleagues.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'frailty',
+    definition: 'The condition of being weak and delicate; or a particular weakness',
+    example: 'Despite his physical frailty, his mind remained sharp.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'adept',
+    definition: 'Very skilled or proficient at something',
+    example: 'She was adept at solving complex mathematical problems.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'clammy',
+    definition: 'Unpleasantly damp and sticky',
+    example: 'Fear made his hands clammy with sweat.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'brisk',
+    definition: 'Quick, active, and energetic; or cold but invigorating',
+    example: 'They took a brisk walk through the park on the cool autumn morning.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'grit',
+    definition: 'Small particles of stone or sand; or courage and resolve',
+    example: 'It takes grit to continue trying after repeated failures.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'wear',
+    definition: 'To have clothing or accessories on one's body; or to damage through continued use',
+    example: 'She decided to wear her blue dress to the party.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'sear',
+    definition: 'To burn or scorch with sudden intense heat',
+    example: 'The chef will sear the steak before finishing it in the oven.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'hydrocarbon',
+    definition: 'A compound of hydrogen and carbon, such as any of those that are the chief components of petroleum and natural gas',
+    example: 'Fossil fuels like oil and natural gas consist primarily of hydrocarbons.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'kryptonite',
+    definition: 'A fictional substance that weakens Superman; or metaphorically, a person's weakness',
+    example: 'Chocolate is my kryptonite—I simply cannot resist it.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'dastardly',
+    definition: 'Wicked and cruel',
+    example: 'The villain's dastardly plan was foiled by the hero.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'silt',
+    definition: 'Fine sand, clay, or other material carried by running water and deposited as sediment',
+    example: 'The river delta was formed by silt deposits over thousands of years.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'tantalize',
+    definition: 'To tease or torment by presenting something desirable but continuously out of reach',
+    example: 'The aroma from the kitchen tantalized the hungry guests.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'shun',
+    definition: 'To persistently avoid, ignore, or reject through antipathy or caution',
+    example: 'She chose to shun social media to focus on her studies.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'primal',
+    definition: 'Relating to an early stage in evolutionary development; primary or fundamental',
+    example: 'The discovery awakened a primal fear in the explorers.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'lanky',
+    definition: 'Ungracefully tall and thin',
+    example: 'The lanky teenager towered over his classmates.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'yank',
+    definition: 'To pull with a quick, strong movement',
+    example: 'She yanked the door open when she heard the doorbell.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'crepe',
+    definition: 'A light, thin fabric with a wrinkled surface; or a thin pancake',
+    example: 'They ordered crepes with strawberries and cream for breakfast.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'cache',
+    definition: 'A collection of items stored in a hidden or inaccessible place',
+    example: 'The archaeologists discovered a cache of ancient coins buried near the temple.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'wither',
+    definition: 'To become dry and shriveled; or to decay or decline',
+    example: 'Without water, the plants will wither and die.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'hither and thither',
+    definition: 'Here and there; to various places',
+    example: 'The children ran hither and thither on the playground.',
+    partOfSpeech: 'phrase'
+  },
+  {
+    word: 'forsake',
+    definition: 'To abandon or leave entirely; to renounce',
+    example: 'He would never forsake his principles, even under pressure.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'belittle',
+    definition: 'To make someone or something seem unimportant',
+    example: 'A good teacher never belittles students' questions.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'solace',
+    definition: 'Comfort or consolation in a time of distress or sadness',
+    example: 'She found solace in music after losing her job.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'grater',
+    definition: 'A kitchen utensil with a rough surface used for grating food',
+    example: 'She used a grater to prepare the cheese for the pasta dish.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'orate',
+    definition: 'To speak formally and at length; to deliver an oration',
+    example: 'The politician orated for nearly an hour about economic reform.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'overt',
+    definition: 'Done or shown openly; plainly or readily apparent, not secret or hidden',
+    example: 'There was an overt attempt to influence the judge's decision.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'char',
+    definition: 'To partially burn so as to blacken the surface',
+    example: 'The chef will char the peppers to remove their skins.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'covert',
+    definition: 'Not openly acknowledged or displayed; secret',
+    example: 'The spy was involved in covert operations for many years.',
+    partOfSpeech: 'adjective'
   }
 ];
 
