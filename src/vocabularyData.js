@@ -3568,6 +3568,654 @@ const vocabularyWords = [
     definition: 'A mischievous elf in Irish folklore, often associated with hidden treasure',
     example: 'In stories, if you catch a leprechaun, he must lead you to his pot of gold.',
     partOfSpeech: 'noun'
+  },
+  {
+    word: 'fermentation',
+    definition: 'The chemical breakdown of a substance by bacteria, yeasts, or other microorganisms, typically involving effervescence and the giving off of heat',
+    example: 'The fermentation process turns grape juice into wine.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'dithering',
+    definition: 'Being indecisive; hesitating between different options',
+    example: 'His dithering cost them valuable time when a quick decision was needed.',
+    partOfSpeech: 'verb (present participle)'
+  },
+  {
+    word: 'immobilise',
+    definition: 'To prevent something or someone from moving or operating as normal',
+    example: 'The cast will immobilise your broken arm while it heals.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'chide',
+    definition: 'To scold or rebuke mildly',
+    example: 'The teacher chided the students for being noisy in the library.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'deferential',
+    definition: 'Showing respect and esteem for another\'s authority',
+    example: 'The staff were deferential toward their new manager.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'fine',
+    definition: 'Of high quality; very good; or a sum of money paid as a penalty',
+    example: 'The chef prepared a fine meal for the special occasion.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'console',
+    definition: 'To comfort someone at a time of grief or disappointment',
+    example: 'She tried to console her friend after the loss of a pet.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'crevice',
+    definition: 'A narrow opening resulting from a split or crack',
+    example: 'The lizard hid in a crevice in the rock wall.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'fissure',
+    definition: 'A long narrow opening or crack in a surface or rock',
+    example: 'Water seeped through a fissure in the ceiling.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'chasm',
+    definition: 'A deep fissure, gap, or gorge in the earth, rock, or another surface',
+    example: 'The mountain trail ran alongside a deep chasm.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'pursuit',
+    definition: 'The action of following or pursuing someone or something; or an activity of a specified kind',
+    example: 'The police were in pursuit of the stolen vehicle.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'masterful',
+    definition: 'Showing great skill or expertise',
+    example: 'The artist gave a masterful performance that impressed everyone.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'inconsolable',
+    definition: 'So unhappy or disappointed that nothing can make one feel better',
+    example: 'She was inconsolable after hearing the bad news.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'hairy',
+    definition: 'Covered with hair; or difficult or dangerous',
+    example: 'The climbers faced a hairy situation when the storm moved in.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'vacant',
+    definition: 'Not occupied; empty; or showing no intelligence or interest',
+    example: 'The hotel had several vacant rooms available.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'pensive',
+    definition: 'Engaged in deep or serious thought; thoughtful',
+    example: 'She had a pensive expression as she stared out the window.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'gay',
+    definition: 'Lighthearted and carefree; or homosexual',
+    example: 'The children were in a gay mood during the party.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'jocund',
+    definition: 'Cheerful and lighthearted',
+    example: 'The jocund atmosphere at the festival lifted everyone\'s spirits.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'monotonous',
+    definition: 'Dull, tedious, and repetitious; lacking in variety and interest',
+    example: 'The monotonous sound of the rain made her feel sleepy.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'provoke',
+    definition: 'To stimulate or give rise to a reaction or emotion, typically a strong or unwelcome one',
+    example: 'His rude comment was designed to provoke an angry response.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'subtle',
+    definition: 'So delicate or precise as to be difficult to analyze or describe; or making use of clever and indirect methods',
+    example: 'There was a subtle change in her expression when she heard the news.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'relinquish',
+    definition: 'To voluntarily cease to keep or claim; to give up',
+    example: 'She was forced to relinquish control of the company to her partner.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'dissipated',
+    definition: 'Scattered or dispersed; or having lost energy, strength, or coherence',
+    example: 'The morning fog gradually dissipated as the sun rose higher.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'fortnight',
+    definition: 'A period of two weeks',
+    example: 'They planned to stay at the beach house for a fortnight.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'grimace',
+    definition: 'A facial expression showing pain, disgust, or disapproval',
+    example: 'He made a grimace when he tasted the sour medicine.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'disfigured',
+    definition: 'Having one\'s appearance marred by damage or a blemish',
+    example: 'The ancient statue was disfigured by years of weathering and vandalism.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'absolve',
+    definition: 'To declare someone free from guilt, blame, or responsibility',
+    example: 'The judge absolved him of all charges due to lack of evidence.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'beloved',
+    definition: 'Dearly loved; or a person who is greatly loved',
+    example: 'She cherished the gift from her beloved grandmother.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'diminish',
+    definition: 'To make or become less; reduce or be reduced',
+    example: 'His influence began to diminish as newer stars emerged.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'veal',
+    definition: 'The meat of a young calf',
+    example: 'The restaurant served veal cutlets with a lemon sauce.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'the underground',
+    definition: 'A secret network of people organized to coordinate resistance or subversive activities; or a subway system',
+    example: 'During the war, she worked with the underground to help refugees escape.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'negligent',
+    definition: 'Failing to take proper care in doing something',
+    example: 'The driver was found negligent in causing the accident.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'tabloid',
+    definition: 'A newspaper with a smaller page size, typically more sensational content, and more pictures than broadsheets',
+    example: 'The tabloid published gossip about celebrities on its front page.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'liaise',
+    definition: 'To form a working relationship or act as a link between people or groups',
+    example: 'The project manager will liaise with all departments to coordinate the launch.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'sheer',
+    definition: 'Nothing other than; or very steep or completely transparent',
+    example: 'The climbers faced a sheer cliff that was nearly impossible to scale.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'detached',
+    definition: 'Not joined or connected to something else; or not feeling or showing interest or sympathy',
+    example: 'They purchased a detached house with a garden on all sides.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'nude',
+    definition: 'Wearing no clothes; naked',
+    example: 'The artist specialized in drawing nude figures.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'bogus',
+    definition: 'Not genuine or true; fake',
+    example: 'The email asking for bank details was bogus and part of a scam.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'spontaneous',
+    definition: 'Performed or occurring as a result of a sudden impulse without premeditation',
+    example: 'The audience burst into spontaneous applause at the end of the performance.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'genuine',
+    definition: 'Truly what something is said to be; authentic',
+    example: 'Her surprise was genuine when she saw the birthday cake.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'aural',
+    definition: 'Relating to the ear or the sense of hearing',
+    example: 'The music teacher tested the students\' aural skills by having them identify different notes.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'sensual',
+    definition: 'Relating to or involving gratification of the senses and physical pleasure',
+    example: 'The perfume had a rich, sensual fragrance.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'hemline',
+    definition: 'The level of the lower edge of a garment such as a skirt, dress, or coat',
+    example: 'Fashion trends often dictate whether hemlines should be long or short.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'patriot',
+    definition: 'A person who vigorously supports their country and is prepared to defend it',
+    example: 'He was regarded as a patriot for his service to the nation.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'monetary',
+    definition: 'Relating to money or currency',
+    example: 'The charity appreciated both monetary donations and volunteer time.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'canine',
+    definition: 'Relating to or resembling a dog or dogs; or a pointed tooth',
+    example: 'His research focused on canine behavior in domestic pets.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'feline',
+    definition: 'Relating to or resembling a cat or cats',
+    example: 'She admired the feline grace with which the dancer moved.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'bovine',
+    definition: 'Relating to cattle; or slow and dull',
+    example: 'The farmer specialized in bovine health and nutrition.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'tumultuous',
+    definition: 'Making an uproar or loud, confused noise; disorderly and noisy',
+    example: 'The politician received a tumultuous welcome from the crowd.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'palpitate',
+    definition: 'To beat rapidly, flutter, or throb; typically as a result of exertion, emotion, or disease',
+    example: 'Her heart began to palpitate with fear as she heard footsteps approaching.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'allure',
+    definition: 'The quality of being powerfully and mysteriously attractive or fascinating',
+    example: 'The allure of the tropical island drew thousands of tourists each year.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'trough',
+    definition: 'A long, narrow container for feeding or watering animals; or a long depression between waves or in the ocean bed',
+    example: 'The farmer filled the trough with fresh water for the horses.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'impudent',
+    definition: 'Not showing due respect; impertinent or cheeky',
+    example: 'The child\'s impudent remarks to the teacher earned him a detention.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'sconce',
+    definition: 'A wall bracket for holding candles or lights',
+    example: 'The hallway was dimly lit by antique sconces along the walls.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'unmannerly',
+    definition: 'Not having or showing good manners; impolite',
+    example: 'It is unmannerly to talk with your mouth full of food.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'unruly',
+    definition: 'Disorderly and disruptive; not amenable to discipline or control',
+    example: 'The teacher struggled to control the unruly class of teenagers.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'equilibrium',
+    definition: 'A state of balance or a calm state of mind; mental or emotional balance',
+    example: 'After the crisis, it took some time for the market to return to equilibrium.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'auburn',
+    definition: 'Reddish-brown in color, especially of hair',
+    example: 'Her long auburn hair shone in the sunlight.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'impish',
+    definition: 'Mischievous or playful, especially in a cheeky way',
+    example: 'The child had an impish grin that suggested he was up to no good.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'angelic',
+    definition: 'Like an angel, especially in looks or behavior; divine or heavenly',
+    example: 'The choir\'s angelic voices filled the cathedral.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'outmoded',
+    definition: 'No longer fashionable or current; out of date',
+    example: 'His views on technology were considered outmoded by the younger generation.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'vogue',
+    definition: 'The prevailing fashion or style at a particular time',
+    example: 'Shoulder pads were in vogue during the 1980s.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'pungent',
+    definition: 'Having a sharply strong taste or smell',
+    example: 'The pungent aroma of garlic filled the kitchen.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'backlash',
+    definition: 'A strong adverse reaction to an event, proposal, or situation',
+    example: 'The company faced a public backlash after the controversial advertisement.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'earnest',
+    definition: 'Resulting from or showing sincere and intense conviction',
+    example: 'She made an earnest plea for help in finding her lost dog.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'span',
+    definition: 'The full extent of something from end to end; or to extend across',
+    example: 'His career spanned more than forty years in the industry.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'detriment',
+    definition: 'The state of being harmed or damaged; something that causes harm',
+    example: 'Excessive screen time can be a detriment to children\'s social development.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'prowess',
+    definition: 'Skill or expertise in a particular activity or field',
+    example: 'She demonstrated her athletic prowess by winning three gold medals.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'burden',
+    definition: 'A load, typically a heavy one; or a duty or responsibility that causes worry',
+    example: 'Caring for her elderly parents became a burden as her own health declined.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'beast of burden',
+    definition: 'An animal used for carrying heavy loads or pulling heavy equipment',
+    example: 'Oxen have been used as beasts of burden in farming for centuries.',
+    partOfSpeech: 'noun phrase'
+  },
+  {
+    word: 'debilitate',
+    definition: 'To make someone weak or infirm',
+    example: 'The illness debilitated him so much that he couldn\'t return to work for months.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'fortify',
+    definition: 'To strengthen or invigorate; to provide with defensive works',
+    example: 'The castle was fortified with high walls and a moat.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'eradicate',
+    definition: 'To destroy completely; eliminate or get rid of',
+    example: 'The goal of the campaign was to eradicate the disease worldwide.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'revamp',
+    definition: 'To give new and improved form, structure, or appearance to',
+    example: 'The website was revamped to make it more user-friendly.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'endearing',
+    definition: 'Inspiring love or affection',
+    example: 'The child\'s endearing smile made everyone in the room happy.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'enduring',
+    definition: 'Lasting over a period of time; durable',
+    example: 'Their enduring friendship has survived many challenges over the years.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'invasive',
+    definition: 'Tending to spread very quickly and undesirably or harmfully',
+    example: 'The invasive plant species quickly took over the garden.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'repugnant',
+    definition: 'Extremely distasteful; unacceptable',
+    example: 'She found his views on equality repugnant and refused to engage in conversation with him.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'courteous',
+    definition: 'Polite, respectful, or considerate in manner',
+    example: 'The staff at the hotel were courteous and helpful throughout our stay.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'counterfeit',
+    definition: 'Made in exact imitation of something valuable with the intention to deceive or defraud',
+    example: 'The police confiscated counterfeit banknotes from the suspect.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'mediocre',
+    definition: 'Of only moderate or low quality; not very good',
+    example: 'The food at the restaurant was mediocre at best.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'illicit',
+    definition: 'Forbidden by law, rules, or custom',
+    example: 'The police cracked down on illicit drug trading in the area.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'inception',
+    definition: 'The beginning or establishment of something; the start',
+    example: 'The company has grown significantly since its inception in 2005.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'benchmark',
+    definition: 'A standard or point of reference against which things may be compared',
+    example: 'The new computer\'s performance set a benchmark for the industry.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'endeavour',
+    definition: 'To try hard to do or achieve something',
+    example: 'She will endeavour to finish the project by the deadline.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'robust',
+    definition: 'Strong and healthy; hardy; or forceful and vigorous',
+    example: 'The company reported robust sales growth in the last quarter.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'valiant',
+    definition: 'Possessing or showing courage or determination',
+    example: 'Despite their valiant efforts, the team lost the championship game.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'wince',
+    definition: 'To make a slight involuntary grimace or flinch because of pain or distress',
+    example: 'He winced when the doctor touched his injured arm.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'deviant',
+    definition: 'Departing from usual or accepted standards',
+    example: 'His deviant behavior concerned his parents and teachers.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'reprobate',
+    definition: 'An unprincipled person; a person rejected by God',
+    example: 'The old reprobate spent most of his time drinking and gambling.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'trailblazer',
+    definition: 'A person who makes a new track through wild country; a pioneer',
+    example: 'She was a trailblazer in the field of computer science.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'domestic',
+    definition: 'Relating to the running of a home; or existing within a particular country',
+    example: 'The company focused on expanding its domestic market before going international.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'volatile',
+    definition: 'Liable to change rapidly and unpredictably, especially for the worse',
+    example: 'The stock market was volatile throughout the economic crisis.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'afflict',
+    definition: 'To cause pain or suffering to; affect adversely',
+    example: 'The disease afflicts thousands of people each year.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'fret',
+    definition: 'To be constantly or visibly anxious or worried',
+    example: 'Try not to fret about things you cannot change.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'misled',
+    definition: 'Led or guided wrongly; deceived',
+    example: 'The advertisement misled consumers about the product\'s capabilities.',
+    partOfSpeech: 'verb (past tense)'
+  },
+  {
+    word: 'afterglow',
+    definition: 'The light or radiance remaining in the sky after the sun has set; or a pleasant effect following a successful or happy event',
+    example: 'The sunset created a beautiful afterglow across the horizon.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'pithead',
+    definition: 'The top or entrance of a mine shaft',
+    example: 'The miners gathered at the pithead before descending into the coal mine.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'tepid',
+    definition: 'Lukewarm; or showing little enthusiasm',
+    example: 'The audience\'s tepid applause suggested they were not impressed by the performance.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'ludicrous',
+    definition: 'So foolish, unreasonable, or out of place as to be amusing',
+    example: 'His explanation for being late was completely ludicrous.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'droll',
+    definition: 'Curious or unusual in a way that provokes dry amusement',
+    example: 'The comedian was known for his droll observations about everyday life.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'trivial',
+    definition: 'Of little value or importance',
+    example: 'Don\'t waste time worrying about trivial matters.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'petty',
+    definition: 'Of small importance; trivial; or characterized by an undue concern for trivial matters',
+    example: 'They argued over petty issues instead of focusing on what really mattered.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'flimsy',
+    definition: 'Insubstantial and easily damaged; weak or poor',
+    example: 'The flimsy chair collapsed when he sat on it.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'medley',
+    definition: 'A varied mixture of people or things; or a collection of songs or pieces of music',
+    example: 'The choir performed a medley of holiday songs at the concert.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'excerpt',
+    definition: 'A short extract from a film, broadcast, or piece of music or writing',
+    example: 'The magazine published an excerpt from her upcoming novel.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'perceive',
+    definition: 'To become aware or conscious of something; to come to realize or understand',
+    example: 'From his tone, she perceived that he was upset about something.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'confine',
+    definition: 'To keep or restrict someone or something within certain limits',
+    example: 'The patient was confined to bed until his fever subsided.',
+    partOfSpeech: 'verb'
   }
 ];
 
