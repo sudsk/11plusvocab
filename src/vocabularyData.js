@@ -2372,7 +2372,7 @@ const vocabularyWords = [
   {
     word: 'meandering',
     definition: 'Following a winding course; or moving aimlessly from one subject to another',
-    example: 'The river's meandering path created a beautiful landscape.',
+    example: 'The river\'s meandering path created a beautiful landscape.',
     partOfSpeech: 'adjective'
   },
   {
@@ -2413,7 +2413,7 @@ const vocabularyWords = [
   },
   {
     word: 'wear',
-    definition: 'To have clothing or accessories on one's body; or to damage through continued use',
+    definition: 'To have clothing or accessories on one\'s body; or to damage through continued use',
     example: 'She decided to wear her blue dress to the party.',
     partOfSpeech: 'verb'
   },
@@ -2431,14 +2431,14 @@ const vocabularyWords = [
   },
   {
     word: 'kryptonite',
-    definition: 'A fictional substance that weakens Superman; or metaphorically, a person's weakness',
+    definition: 'A fictional substance that weakens Superman; or metaphorically, a person\'s weakness',
     example: 'Chocolate is my kryptonite—I simply cannot resist it.',
     partOfSpeech: 'noun'
   },
   {
     word: 'dastardly',
     definition: 'Wicked and cruel',
-    example: 'The villain's dastardly plan was foiled by the hero.',
+    example: 'The villain\'s dastardly plan was foiled by the hero.',
     partOfSpeech: 'adjective'
   },
   {
