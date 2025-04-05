@@ -2534,7 +2534,7 @@ const vocabularyWords = [
   {
     word: 'overt',
     definition: 'Done or shown openly; plainly or readily apparent, not secret or hidden',
-    example: 'There was an overt attempt to influence the judge's decision.',
+    example: 'There was an overt attempt to influence the judge\'s decision.',
     partOfSpeech: 'adjective'
   },
   {
