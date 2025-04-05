@@ -2510,7 +2510,7 @@ const vocabularyWords = [
   {
     word: 'belittle',
     definition: 'To make someone or something seem unimportant',
-    example: 'A good teacher never belittles students' questions.',
+    example: 'A good teacher never belittles students\' questions.',
     partOfSpeech: 'verb'
   },
   {
