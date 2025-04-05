@@ -2342,7 +2342,7 @@ const vocabularyWords = [
   {
     word: 'acquittal',
     definition: 'A judgment that a person is not guilty of the crime with which they have been charged',
-    example: 'The jury's acquittal of the defendant surprised many who had followed the trial.',
+    example: 'The jury\'s acquittal of the defendant surprised many who had followed the trial.',
     partOfSpeech: 'noun'
   },
   {
