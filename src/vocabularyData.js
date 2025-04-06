@@ -4216,6 +4216,234 @@ const allWords = [
     definition: 'To keep or restrict someone or something within certain limits',
     example: 'The patient was confined to bed until his fever subsided.',
     partOfSpeech: 'verb'
+  },
+  {
+    word: 'heron',
+    definition: 'A long-legged wading bird with a long neck and often a long pointed bill',
+    example: 'We spotted a graceful heron standing motionless at the edge of the pond.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'voracity',
+    definition: 'Extreme eagerness or enthusiasm to consume or acquire something',
+    example: 'He read books with great voracity, sometimes finishing several in a week.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'itch',
+    definition: 'An uncomfortable sensation on the skin that causes a desire to scratch; or a restless desire',
+    example: 'The mosquito bite gave him an itch that wouldn\'t go away.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'merely',
+    definition: 'Just; only; and nothing more or better',
+    example: 'She was merely trying to help when she offered advice.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'gosling',
+    definition: 'A young goose',
+    example: 'The mother goose led her goslings to the water.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'malady',
+    definition: 'A disease or ailment; or a serious problem',
+    example: 'The doctor couldn\'t identify the strange malady affecting his patient.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'dictatorial',
+    definition: 'Relating to or typical of a ruler with total power; or behaving in an overbearing way',
+    example: 'The manager\'s dictatorial style made the employees feel unappreciated.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'grandiose',
+    definition: 'Impressive and imposing in appearance or style, especially pretentiously so',
+    example: 'He had grandiose plans to build a mansion on the hilltop.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'allay',
+    definition: 'To diminish or put at rest; to relieve or alleviate',
+    example: 'The teacher\'s kind words helped to allay the child\'s fears about the first day of school.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'abdicate',
+    definition: 'To formally give up a position of power, especially that of a monarch',
+    example: 'The king decided to abdicate the throne in favor of his son.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'cohort',
+    definition: 'A group of people with a shared characteristic; or a supporter or companion',
+    example: 'The study followed a cohort of students from kindergarten through high school.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'lament',
+    definition: 'To express sorrow, regret, or unhappiness about something',
+    example: 'The farmers lamented the lack of rain during the growing season.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'acme',
+    definition: 'The highest point or stage; the peak',
+    example: 'The artist reached the acme of his career when he won the prestigious award.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'runt',
+    definition: 'The smallest animal in a litter, especially a pig',
+    example: 'The runt of the litter was weaker than its siblings and needed special care.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'clement',
+    definition: 'Mild or merciful in disposition; lenient; or (of weather) mild',
+    example: 'The clement weather made it perfect for a day at the beach.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'assuage',
+    definition: 'To make an unpleasant feeling less intense; to satisfy (hunger or thirst)',
+    example: 'The cool drink helped to assuage his thirst after the long hike.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'exorcise',
+    definition: 'To drive out an evil spirit; or to get rid of a troublesome feeling or memory',
+    example: 'The ritual was supposed to exorcise the evil spirits from the house.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'aghast',
+    definition: 'Filled with shock or horror',
+    example: 'She was aghast when she saw the damage caused by the storm.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'auspicious',
+    definition: 'Giving or being a sign of future success; favorable',
+    example: 'The clear sky was an auspicious sign for the outdoor wedding.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'as rare as hen\'s teeth',
+    definition: 'Extremely rare or difficult to find (since hens don\'t have teeth)',
+    example: 'Original copies of that book are as rare as hen\'s teeth.',
+    partOfSpeech: 'idiom'
+  },
+  {
+    word: 'hypocrisy',
+    definition: 'The practice of claiming to have moral standards or beliefs that one\'s actions do not conform to',
+    example: 'The politician was accused of hypocrisy when he broke the very law he had promoted.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'studious',
+    definition: 'Spending a lot of time studying or reading; diligent in one\'s studies',
+    example: 'The studious girl always completed her homework before playing.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'tor',
+    definition: 'A hill or rocky peak, typically in the south of England',
+    example: 'They climbed to the top of the tor to get a better view of the landscape.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'merit',
+    definition: 'The quality of being particularly good or worthy; or to deserve or be worthy of',
+    example: 'Her proposal had enough merit to warrant further discussion.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'tyrant',
+    definition: 'A cruel and oppressive ruler; someone who exercises power in a harsh way',
+    example: 'The tyrant ruled the kingdom with fear and brutality.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'aloof',
+    definition: 'Not friendly or forthcoming; cool and distant',
+    example: 'He remained aloof from the other guests at the party.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'hasty',
+    definition: 'Done with excessive speed or urgency; hurried',
+    example: 'She made a hasty decision that she later regretted.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'biased',
+    definition: 'Unfairly prejudiced for or against someone or something',
+    example: 'The judge was accused of being biased in favor of the prosecution.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'gallant',
+    definition: 'Brave, heroic, and chivalrous; or courteously attentive especially to women',
+    example: 'The gallant knight rescued the princess from the tower.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'succinct',
+    definition: 'Briefly and clearly expressed; concise',
+    example: 'Her succinct explanation made the complex topic easy to understand.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'prominent',
+    definition: 'Important; famous; or projecting from something; sticking out',
+    example: 'The mountain was a prominent feature in the landscape.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'relish',
+    definition: 'Great enjoyment; or a condiment eaten with food to add flavor',
+    example: 'He ate his hot dog with relish, both literally and figuratively.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'tentative',
+    definition: 'Not certain or fixed; provisional; done without confidence',
+    example: 'They made tentative plans to meet, depending on the weather.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'ornate',
+    definition: 'Elaborately or highly decorated; showy',
+    example: 'The palace featured ornate ceilings with gold leaf and intricate carvings.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'sandstone',
+    definition: 'A sedimentary rock consisting of sand grains that have been cemented together',
+    example: 'The ancient buildings were constructed from local sandstone.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'brambles',
+    definition: 'Prickly, scrambling shrubs, typically of the blackberry family',
+    example: 'Her arms were scratched from pushing through the brambles to reach the berries.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'amassed',
+    definition: 'Gathered together or accumulated in a large amount or number',
+    example: 'Over the years, he amassed a valuable collection of rare stamps.',
+    partOfSpeech: 'verb (past tense)'
+  },
+  {
+    word: 'assertive',
+    definition: 'Having or showing a confident and forceful personality',
+    example: 'She was assertive during the meeting, making sure her ideas were heard.',
+    partOfSpeech: 'adjective'
   }
 ];
 
