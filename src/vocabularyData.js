@@ -1,4 +1,4 @@
-const vocabularyWords = [
+const allWords = [
   {
     word: 'khaki',
     definition: 'A light yellowish-brown color; or a strong cotton fabric of this color often used for military uniforms',
@@ -4218,5 +4218,24 @@ const vocabularyWords = [
     partOfSpeech: 'verb'
   }
 ];
+
+// Function to remove duplicates
+const removeDuplicates = (wordArray) => {
+  const wordMap = new Map();
+  
+  return wordArray.filter(wordObj => {
+    const lowerCaseWord = wordObj.word.toLowerCase();
+    
+    if (!wordMap.has(lowerCaseWord)) {
+      wordMap.set(lowerCaseWord, true);
+      return true;
+    }
+    
+    return false;
+  });
+};
+
+// Create the deduplicated list
+const vocabularyWords = removeDuplicates(allWords);
 
 export default vocabularyWords;
