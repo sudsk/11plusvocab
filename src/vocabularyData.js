@@ -6364,6 +6364,234 @@ const allWords = [
     definition: 'In a way that shows a severely disordered state of mind; insanely',
     example: 'The character in the horror film laughed dementedly after revealing his plan.',
     partOfSpeech: 'adverb'
+  },
+  {
+    word: 'fastidiously',
+    definition: 'With great attention to detail or with excessive care',
+    example: 'She fastidiously arranged each item on her desk at perfect right angles.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'meticulously',
+    definition: 'In a way that shows great attention to detail; very thoroughly and carefully',
+    example: 'The watchmaker meticulously assembled the tiny components of the timepiece.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'shimmied',
+    definition: 'Moved in a shaking or vibrating motion; or moved by wiggling from side to side',
+    example: 'She shimmied up the tree to rescue the stranded kitten.',
+    partOfSpeech: 'verb (past tense)'
+  },
+  {
+    word: 'sentinels',
+    definition: 'People or animals that stand guard or keep watch',
+    example: 'The tall pine trees stood like sentinels around the perimeter of the camp.',
+    partOfSpeech: 'noun (plural)'
+  },
+  {
+    word: 'pirouetted',
+    definition: 'Performed a complete turn on one foot, typically with the raised foot touching the knee of the supporting leg',
+    example: 'The ballerina pirouetted gracefully across the stage.',
+    partOfSpeech: 'verb (past tense)'
+  },
+  {
+    word: 'serrated',
+    definition: 'Having a notched edge like a saw',
+    example: 'The serrated knife easily cut through the crusty bread.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'calamitous',
+    definition: 'Causing great damage or distress; disastrous',
+    example: 'The earthquake had calamitous effects on the small coastal village.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'stifling',
+    definition: 'Making one feel constrained or unable to breathe; oppressively hot',
+    example: 'The stifling heat in the crowded room made it difficult to concentrate.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'despondently',
+    definition: 'In a manner showing loss of hope and courage; dejectedly',
+    example: 'After failing the exam, he walked home despondently with his head down.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'inextricable',
+    definition: 'Impossible to disentangle or separate',
+    example: 'The history of the two countries is inextricable, with centuries of shared culture.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'sanguine',
+    definition: 'Optimistic or positive, especially in a difficult situation',
+    example: 'Despite the challenges, she remained sanguine about the project\'s success.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'scintillating',
+    definition: 'Sparkling or shining; brilliantly and excitingly clever or skillful',
+    example: 'The professor gave a scintillating lecture that kept everyone engaged.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'sublime',
+    definition: 'Of very great excellence or beauty; inspiring awe',
+    example: 'The view from the mountain top was simply sublime.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'fiend',
+    definition: 'An evil spirit or demon; a person who is extremely wicked or cruel',
+    example: 'The villain in the story was portrayed as a fiend without any moral principles.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'daintily',
+    definition: 'In a delicate, pretty, or elegant way',
+    example: 'She daintily picked up the teacup with her pinky extended.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'flabbergasting',
+    definition: 'Astonishing or deeply shocking',
+    example: 'The magician\'s final trick was absolutely flabbergasting to the audience.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'lugubrious',
+    definition: 'Looking or sounding sad and dismal',
+    example: 'The clown wore a lugubrious expression that made children cry rather than laugh.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'decremental',
+    definition: 'Relating to or characterized by decrease or reduction',
+    example: 'The battery showed a decremental pattern of power loss over time.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'trepidatious',
+    definition: 'Feeling fear or anxiety about something that may happen',
+    example: 'The new student was trepidatious about his first day at school.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'competently',
+    definition: 'In a way that shows adequate skill or knowledge',
+    example: 'She competently handled the emergency situation until help arrived.',
+    partOfSpeech: 'adverb'
+  },
+  {
+    word: 'torrid',
+    definition: 'Very hot and dry; or full of difficulty or tribulation; or passionate',
+    example: 'The explorers struggled through the torrid desert conditions.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'stalwart',
+    definition: 'Loyal, reliable, and hardworking; or strongly built and sturdy',
+    example: 'He was a stalwart supporter of the cause, never wavering in his commitment.',
+    partOfSpeech: 'adjective/noun'
+  },
+  {
+    word: 'stupefying',
+    definition: 'Causing someone to feel dazed or stunned; extremely surprising',
+    example: 'The news of their sudden marriage had a stupefying effect on their friends.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'battering',
+    definition: 'Hitting repeatedly with great force',
+    example: 'The coastal town took a battering from the hurricane.',
+    partOfSpeech: 'noun/verb (present participle)'
+  },
+  {
+    word: 'cleaver',
+    definition: 'A heavy, broad-bladed knife or chopper used especially by butchers',
+    example: 'The chef used a cleaver to cut through the thick bone.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'byzantine',
+    definition: 'Excessively complicated, typically involving a great deal of administrative detail',
+    example: 'The tax code is often criticized for its byzantine complexity.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'inconspicuous',
+    definition: 'Not clearly visible or attracting attention',
+    example: 'She tried to remain inconspicuous at the back of the room.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'gauze',
+    definition: 'A thin, transparent fabric used especially for medical dressings',
+    example: 'The nurse wrapped gauze around the wound to keep it clean.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'sluice',
+    definition: 'A sliding gate or other device for controlling the flow of water; or to wash or rinse with freely flowing water',
+    example: 'They opened the sluice to allow water into the irrigation channel.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'avow',
+    definition: 'To declare or state something openly and with confidence',
+    example: 'He avowed his innocence despite the mounting evidence against him.',
+    partOfSpeech: 'verb'
+  },
+  {
+    word: 'inset',
+    definition: 'A thing that is inserted or set into something else; or to insert something',
+    example: 'The map contained a small inset showing the downtown area in greater detail.',
+    partOfSpeech: 'noun/verb'
+  },
+  {
+    word: 'splices',
+    definition: 'Joins or connects (pieces of rope, film, or magnetic tape) by overlapping and binding the ends',
+    example: 'The electrician splices the wires together to complete the circuit.',
+    partOfSpeech: 'verb (third person singular)'
+  },
+  {
+    word: 'faun',
+    definition: 'A mythological half-human, half-goat creature of the woods',
+    example: 'In the painting, a faun played pipes beneath a tree in the forest.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'abolition',
+    definition: 'The action of abolishing a system, practice, or institution',
+    example: 'They campaigned for the abolition of slavery throughout the country.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'transalpine',
+    definition: 'Situated or occurring on the other side of the Alps (especially from an Italian viewpoint)',
+    example: 'The transalpine regions received much more rainfall than the Mediterranean areas.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'liberalism',
+    definition: 'A political and moral philosophy based on liberty, consent of the governed, and equality before the law',
+    example: 'The newspaper was known for promoting liberalism and progressive ideas.',
+    partOfSpeech: 'noun'
+  },
+  {
+    word: 'indulgent',
+    definition: 'Having or showing a tendency to allow someone to have what they want; permissive',
+    example: 'The grandparents were more indulgent with the children than the parents were.',
+    partOfSpeech: 'adjective'
+  },
+  {
+    word: 'ascetic',
+    definition: 'Characterized by severe self-discipline and abstention from all forms of indulgence',
+    example: 'The monk lived an ascetic lifestyle in his small, bare cell.',
+    partOfSpeech: 'adjective/noun'
   }
 ];
 
