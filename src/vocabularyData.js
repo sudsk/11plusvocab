@@ -6592,6 +6592,564 @@ const allWords = [
     definition: 'Characterized by severe self-discipline and abstention from all forms of indulgence',
     example: 'The monk lived an ascetic lifestyle in his small, bare cell.',
     partOfSpeech: 'adjective/noun'
+  },
+  {
+    "word": "alienated",
+    "definition": "Made to feel isolated or estranged from a group or activity",
+    "example": "After moving to a new school, she felt alienated from her classmates.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "placid",
+    "definition": "Not easily upset or excited; calm and peaceful",
+    "example": "The placid lake reflected the mountains like a perfect mirror.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "pragmatic",
+    "definition": "Dealing with things sensibly and realistically in a practical way",
+    "example": "The manager took a pragmatic approach to solving the budget problem.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "porous",
+    "definition": "Having tiny holes that allow liquid or air to pass through",
+    "example": "The porous rock absorbed water like a sponge.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "pensively",
+    "definition": "In a way that shows deep thought, often with some sadness",
+    "example": "She stared pensively out the window, thinking about her grandmother.",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "prattle",
+    "definition": "To talk at length in a foolish or inconsequential way",
+    "example": "The toddler would prattle on about his toys for hours.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "discourse",
+    "definition": "Written or spoken communication or debate about a particular topic",
+    "example": "The professor led an interesting discourse on climate change.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pretence",
+    "definition": "An attempt to make something that is not the case appear true",
+    "example": "He made a pretence of being interested in the conversation.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "procure",
+    "definition": "To obtain something, especially with care or effort",
+    "example": "The chef worked hard to procure the freshest ingredients for the restaurant.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "quintessential",
+    "definition": "Representing the most perfect example of a quality or class",
+    "example": "She was the quintessential teacher, patient and knowledgeable.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "entrepreneur",
+    "definition": "A person who organizes and operates a business, taking financial risks",
+    "example": "The young entrepreneur started her own tech company after college.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "downsize",
+    "definition": "To make something smaller or reduce the number of employees in a company",
+    "example": "The company had to downsize due to financial difficulties.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "ramifications",
+    "definition": "Complex or unwelcome consequences of an action or event",
+    "example": "The decision to close the factory had serious ramifications for the local community.",
+    "partOfSpeech": "noun (plural)"
+  },
+  {
+    "word": "reel",
+    "definition": "To feel shocked or overwhelmed; or a cylinder for winding film, thread, or fishing line",
+    "example": "She was still reeling from the unexpected news.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "ratified",
+    "definition": "Confirmed or made officially valid by signing or giving formal consent",
+    "example": "The treaty was ratified by both countries after months of negotiations.",
+    "partOfSpeech": "verb (past tense)"
+  },
+  {
+    "word": "wayward",
+    "definition": "Difficult to control or predict because of unusual or unreasonable behavior",
+    "example": "The wayward teenager refused to follow any rules set by his parents.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "ward",
+    "definition": "A separate room in a hospital; or a person under the protection of a guardian",
+    "example": "The patient was moved to the cardiac ward for specialized care.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "shoplift",
+    "definition": "To steal goods from a shop while pretending to be a customer",
+    "example": "The security camera caught him trying to shoplift candy from the store.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "condone",
+    "definition": "To accept and allow behavior that is considered wrong to continue",
+    "example": "The school does not condone bullying in any form.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "susceptible",
+    "definition": "Likely or liable to be influenced or harmed by something",
+    "example": "Young children are particularly susceptible to catching colds.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "prune",
+    "definition": "To trim by cutting away dead or overgrown branches; or a dried plum",
+    "example": "In spring, we prune the rose bushes to encourage new growth.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "congregate",
+    "definition": "To gather together in a crowd or mass",
+    "example": "Students congregated in the cafeteria during lunch break.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "fraught",
+    "definition": "Filled with or likely to result in something undesirable",
+    "example": "The journey across the mountain was fraught with danger.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "assertive",
+    "definition": "Having or showing a confident and forceful personality",
+    "example": "She was assertive during the meeting, making sure her ideas were heard.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "compelling",
+    "definition": "Evoking interest, attention, or admiration in a powerfully irresistible way",
+    "example": "The documentary told a compelling story about endangered wildlife.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "rivet",
+    "definition": "To hold someone's attention completely; or a metal fastener",
+    "example": "The thrilling movie riveted the audience from beginning to end.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "spark",
+    "definition": "A small fiery particle; or to trigger or initiate something",
+    "example": "The innovative idea sparked a revolution in technology.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "coop",
+    "definition": "A cage or pen for confining poultry",
+    "example": "The chickens were safely locked in their coop for the night.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "gamekeeper",
+    "definition": "A person employed to breed and protect game animals and birds on an estate",
+    "example": "The gamekeeper monitored the wildlife population in the forest preserve.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "personal pronoun",
+    "definition": "A pronoun that refers to a specific person or thing (I, you, he, she, it, we, they)",
+    "example": "In the sentence 'She likes cookies,' the word 'she' is a personal pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "possessive pronoun",
+    "definition": "A pronoun that shows ownership (mine, yours, his, hers, its, ours, theirs)",
+    "example": "In 'That book is mine,' the word 'mine' is a possessive pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "demonstrative pronoun",
+    "definition": "A pronoun that points to specific things (this, that, these, those)",
+    "example": "In 'This is my favorite,' the word 'this' is a demonstrative pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "interrogative pronoun",
+    "definition": "A pronoun used to ask questions (who, what, which, whom, whose)",
+    "example": "In 'What is your name?' the word 'what' is an interrogative pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "relative pronoun",
+    "definition": "A pronoun that introduces a relative clause (who, whom, whose, which, that)",
+    "example": "In 'The book that I read was exciting,' the word 'that' is a relative pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "indefinite pronoun",
+    "definition": "A pronoun that does not refer to any specific person or thing (someone, anybody, nothing, all)",
+    "example": "In 'Everyone enjoyed the party,' the word 'everyone' is an indefinite pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "reflexive pronoun",
+    "definition": "A pronoun that refers back to the subject (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves)",
+    "example": "In 'I hurt myself,' the word 'myself' is a reflexive pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "intensive pronoun",
+    "definition": "A pronoun that emphasizes the noun or pronoun it refers to (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves)",
+    "example": "In 'I myself will do it,' the word 'myself' is an intensive pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "reciprocal pronoun",
+    "definition": "A pronoun that shows a mutual action or relationship (each other, one another)",
+    "example": "In 'They helped each other,' the phrase 'each other' is a reciprocal pronoun.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "dynamic verb",
+    "definition": "A verb that expresses action or process",
+    "example": "In 'She runs every morning,' the word 'runs' is a dynamic verb.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "transitive verb",
+    "definition": "A verb that requires a direct object to complete its meaning",
+    "example": "In 'She reads books,' the verb 'reads' is transitive because it has the object 'books.'",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "intransitive verb",
+    "definition": "A verb that does not require a direct object to complete its meaning",
+    "example": "In 'The bird flies,' the verb 'flies' is intransitive because it doesn't need an object.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "nonfinite verb",
+    "definition": "A verb form that is not limited by person, number, or tense (infinitives, participles, gerunds)",
+    "example": "In 'To swim is fun,' the word 'swim' is part of a nonfinite verb phrase.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "finite verb",
+    "definition": "A verb that is limited by person, number, and tense",
+    "example": "In 'She walks to school,' the word 'walks' is a finite verb.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "auxiliary verb",
+    "definition": "A helping verb used with main verbs to form tenses, moods, and voices (be, have, do)",
+    "example": "In 'She is running,' the word 'is' is an auxiliary verb.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "modal verb",
+    "definition": "A type of auxiliary verb that expresses necessity, possibility, permission, or ability (can, could, may, might, must, shall, should, will, would)",
+    "example": "In 'You should study,' the word 'should' is a modal verb.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "stative verb",
+    "definition": "A verb that describes a state of being rather than an action",
+    "example": "In 'I love chocolate,' the verb 'love' is stative because it describes a feeling.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "linking verb",
+    "definition": "A verb that connects the subject to additional information about the subject",
+    "example": "In 'She is happy,' the verb 'is' is a linking verb connecting 'she' to 'happy.'",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "phrasal verb",
+    "definition": "A verb combined with a preposition or adverb to create a meaning different from the original verb",
+    "example": "In 'Please turn off the light,' the phrase 'turn off' is a phrasal verb.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "attributive adjective",
+    "definition": "An adjective that appears before the noun it modifies",
+    "example": "In 'the red car,' the word 'red' is an attributive adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "compound adjective",
+    "definition": "An adjective made up of two or more words, often connected by hyphens",
+    "example": "In 'a well-known author,' the phrase 'well-known' is a compound adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "coordinate adjective",
+    "definition": "Adjectives that equally modify a noun and can be separated by commas",
+    "example": "In 'a small, cozy room,' the words 'small' and 'cozy' are coordinate adjectives.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "postpositive adjective",
+    "definition": "An adjective that appears after the noun it modifies",
+    "example": "In 'attorney general,' the word 'general' is a postpositive adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "predicate adjective",
+    "definition": "An adjective that follows a linking verb and describes the subject",
+    "example": "In 'The sky is blue,' the word 'blue' is a predicate adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "proper adjective",
+    "definition": "An adjective derived from a proper noun and usually capitalized",
+    "example": "In 'American culture,' the word 'American' is a proper adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "verbal adjective",
+    "definition": "An adjective formed from a verb, such as a participle",
+    "example": "In 'the running water,' the word 'running' is a verbal adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "possessive adjective",
+    "definition": "An adjective that shows ownership (my, your, his, her, its, our, their)",
+    "example": "In 'my book,' the word 'my' is a possessive adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "comparative adjective",
+    "definition": "An adjective used to compare two things, often ending in -er or using 'more'",
+    "example": "In 'She is taller than him,' the word 'taller' is a comparative adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "superlative adjective",
+    "definition": "An adjective used to compare three or more things, often ending in -est or using 'most'",
+    "example": "In 'She is the tallest in the class,' the word 'tallest' is a superlative adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "quantitative adjective",
+    "definition": "An adjective that indicates quantity or amount",
+    "example": "In 'several books,' the word 'several' is a quantitative adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "descriptive adjective",
+    "definition": "An adjective that describes qualities or characteristics of a noun",
+    "example": "In 'beautiful flowers,' the word 'beautiful' is a descriptive adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "demonstrative adjective",
+    "definition": "An adjective that points out which noun is being referred to (this, that, these, those)",
+    "example": "In 'this book,' the word 'this' is a demonstrative adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "distributive adjective",
+    "definition": "An adjective that refers to members of a group individually (each, every, either, neither)",
+    "example": "In 'each student,' the word 'each' is a distributive adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "interrogative adjective",
+    "definition": "An adjective used to ask questions about nouns (which, what, whose)",
+    "example": "In 'Which book do you want?' the word 'which' is an interrogative adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "loiter",
+    "definition": "To stand or wait around idly without apparent purpose",
+    "example": "The teenagers were asked not to loiter outside the shopping center.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "numeral adjective",
+    "definition": "An adjective that indicates a specific number or order",
+    "example": "In 'three cats,' the word 'three' is a numeral adjective.",
+    "partOfSpeech": "noun phrase"
+  },
+  {
+    "word": "cardinal",
+    "definition": "A number denoting quantity (one, two, three); or a high-ranking Catholic official",
+    "example": "The cardinal numbers tell us 'how many' of something there are.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "versatile",
+    "definition": "Able to adapt or be adapted to many different functions or activities",
+    "example": "She is a versatile actress who can perform in comedies and dramas equally well.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "reconcile",
+    "definition": "To restore friendly relations between; or to make consistent or compatible",
+    "example": "After their argument, the friends decided to reconcile and move forward.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "coherent",
+    "definition": "Logical and consistent; easy to understand",
+    "example": "Her essay was well-organized and coherent throughout.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "docile",
+    "definition": "Ready to accept control or instruction; submissive",
+    "example": "The docile horse was perfect for beginning riders.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "firm",
+    "definition": "Having a solid, stable structure; or showing determination",
+    "example": "She was firm in her decision not to change her mind.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "astute",
+    "definition": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage",
+    "example": "The astute investor recognized the potential in the startup company.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "commend",
+    "definition": "To praise formally or officially; to recommend",
+    "example": "The teacher commended the student for her excellent work on the project.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "evade",
+    "definition": "To escape or avoid, especially by cleverness or trickery",
+    "example": "The suspect tried to evade capture by hiding in the forest.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "languorous",
+    "definition": "Tiredness or inertia, especially when pleasurable; dreamy relaxation",
+    "example": "She spent a languorous afternoon reading in the garden hammock.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "labour",
+    "definition": "Work involving physical or mental effort; or to work hard",
+    "example": "The construction workers laboured all day to finish the foundation.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "pail",
+    "definition": "A bucket, typically made of metal or plastic",
+    "example": "She carried water from the well in a metal pail.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "witty",
+    "definition": "Showing or characterized by quick and inventive verbal humor",
+    "example": "His witty remarks kept everyone laughing during the dinner party.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "sleet",
+    "definition": "Rain containing some ice, or partly melted falling snow",
+    "example": "The sleet made the roads slippery and dangerous for driving.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "scouts",
+    "definition": "People sent to observe enemy movements; or members of the Scout movement",
+    "example": "The scouts explored the trail to find the best route for the hiking group.",
+    "partOfSpeech": "noun (plural)"
+  },
+  {
+    "word": "mares",
+    "definition": "Adult female horses",
+    "example": "The mares grazed peacefully in the pasture with their foals.",
+    "partOfSpeech": "noun (plural)"
+  },
+  {
+    "word": "folds",
+    "definition": "Bends or creases; or enclosures for sheep",
+    "example": "The shepherd gathered the sheep into the folds for the night.",
+    "partOfSpeech": "noun (plural)/verb"
+  },
+  {
+    "word": "fore",
+    "definition": "Situated or placed in front; or a warning cry in golf",
+    "example": "The golfer shouted 'Fore!' to warn others of the approaching ball.",
+    "partOfSpeech": "adjective/exclamation"
+  },
+  {
+    "word": "kink",
+    "definition": "A sharp twist or curl; or an unusual or peculiar characteristic",
+    "example": "There was a kink in the garden hose that stopped the water flow.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "honed",
+    "definition": "Sharpened or refined through practice or training",
+    "example": "She honed her piano skills through years of daily practice.",
+    "partOfSpeech": "verb (past tense)"
+  },
+  {
+    "word": "tangent",
+    "definition": "A completely different line of thought or action; or a straight line that touches a curve",
+    "example": "During his speech, he went off on a tangent about his childhood memories.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "fluctuate",
+    "definition": "To rise and fall irregularly in number or amount",
+    "example": "Stock prices tend to fluctuate throughout the trading day.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "renegade",
+    "definition": "A person who deserts and betrays an organization, country, or set of principles",
+    "example": "The renegade soldier abandoned his post and joined the opposing army.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "prominence",
+    "definition": "The state of being important or famous; or something that juts out",
+    "example": "The actor rose to prominence after starring in the blockbuster film.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "premise",
+    "definition": "A previous statement or proposition from which another is inferred; or the land and buildings of a business",
+    "example": "The detective's conclusion was based on the premise that the suspect had a motive.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "prestige",
+    "definition": "Widespread respect and admiration felt for someone or something on the basis of their achievements",
+    "example": "The university has great prestige due to its excellent academic programs.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "succinct",
+    "definition": "Briefly and clearly expressed",
+    "example": "Her succinct explanation made the complex topic easy to understand.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "succumbs",
+    "definition": "Fails to resist pressure, temptation, or some other negative force",
+    "example": "He eventually succumbs to the temptation of eating chocolate cake.",
+    "partOfSpeech": "verb (third person singular)"
   }
 ];
 
