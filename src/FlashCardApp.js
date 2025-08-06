@@ -23,6 +23,17 @@ const FlashCardApp = () => {
   const [quizComplete, setQuizComplete] = useState(false);
   const [quizOptions, setQuizOptions] = useState([]);
 
+  const [jumpToCard, setJumpToCard] = useState('');
+
+  const handleJumpToCard = () => {
+    const cardNumber = parseInt(jumpToCard);
+    if (cardNumber >= 1 && cardNumber <= displayWords.length) {
+      setCurrentIndex(cardNumber - 1); // Convert to 0-based index
+      setJumpToCard('');
+      setShowDefinition(false);
+    }
+  };
+
   // Function to shuffle cards
   const shuffleCards = () => {
     // Create a copy of the original array
@@ -250,6 +261,25 @@ const FlashCardApp = () => {
               Next
             </button>
           </div>
+          {/* ADD THE JUMP BOX HERE */}
+          <div className="flex justify-center mt-2 gap-2 items-center">
+            <label className="text-sm">Jump To:</label>
+            <input 
+              type="number" 
+              min="1" 
+              max={displayWords.length}
+              value={jumpToCard}
+              onChange={(e) => setJumpToCard(e.target.value)}
+              className="w-16 p-1 border rounded text-center"
+              placeholder="1"
+            />
+            <button 
+              onClick={handleJumpToCard}
+              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded text-sm"
+            >
+              Go
+            </button>
+          </div>                
         </div>
       ) : showList ? (
         /* Word List View */
