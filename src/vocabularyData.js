@@ -7150,6 +7150,594 @@ const allWords = [
     "definition": "Fails to resist pressure, temptation, or some other negative force",
     "example": "He eventually succumbs to the temptation of eating chocolate cake.",
     "partOfSpeech": "verb (third person singular)"
+  },
+  {
+    "word": "insinuate",
+    "definition": "To suggest or hint slyly without directly stating something",
+    "example": "She didn't directly accuse him, but she tried to insinuate that he was responsible for the missing money.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "allude",
+    "definition": "To suggest or call attention to indirectly; hint at",
+    "example": "The teacher alluded to the test next week without giving specific details.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "alleged",
+    "definition": "Said, without proof, to have taken place or to have a specified illegal or undesirable quality",
+    "example": "The alleged thief was questioned by police but not yet charged.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "succumbs",
+    "definition": "Fails to resist pressure, temptation, or some other negative force",
+    "example": "Despite trying to diet, he always succumbs to the temptation of chocolate cake.",
+    "partOfSpeech": "verb (third person singular)"
+  },
+  {
+    "word": "succinct",
+    "definition": "Briefly and clearly expressed",
+    "example": "The manager gave a succinct explanation of the new policy in just two sentences.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "defunct",
+    "definition": "No longer existing or functioning",
+    "example": "The defunct factory still stands empty after closing twenty years ago.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "eloquent",
+    "definition": "Fluent or persuasive in speaking or writing",
+    "example": "The politician gave an eloquent speech that moved many people to tears.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "articulate",
+    "definition": "Having or showing the ability to speak fluently and coherently",
+    "example": "The articulate student clearly explained her science project to the judges.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "estuary",
+    "definition": "The tidal mouth of a large river, where the tide meets the stream",
+    "example": "Many different species of birds gather at the estuary where the river meets the sea.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "gorge",
+    "definition": "A narrow valley between hills or mountains, typically with steep rocky walls",
+    "example": "The hikers walked carefully along the edge of the deep gorge.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "ample",
+    "definition": "Large or spacious; more than enough",
+    "example": "There was ample room in the garage for both cars and storage.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "lieu",
+    "definition": "In place of; instead of",
+    "example": "In lieu of flowers, the family requested donations to charity.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "deprive",
+    "definition": "To deny someone the possession or use of something",
+    "example": "The punishment would deprive him of his computer privileges for a week.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "pith",
+    "definition": "The essence or core of something; or the spongy white tissue lining the rind of citrus fruits",
+    "example": "The pith of his argument was that education should be free for everyone.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "blatant",
+    "definition": "Done openly and unashamedly; completely obvious",
+    "example": "His blatant cheating during the game angered the other players.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "impediment",
+    "definition": "A hindrance or obstruction in doing something",
+    "example": "His stutter was not an impediment to becoming a successful teacher.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "threadbare",
+    "definition": "Worn so much that the threads show; or lacking originality",
+    "example": "His threadbare jacket had been his favorite for many years despite its worn appearance.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "facet",
+    "definition": "One side of something many-sided; a particular aspect or feature",
+    "example": "The diamond sparkled as light reflected off each facet.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "rife",
+    "definition": "Of great quantity; abundant; or full of something undesirable",
+    "example": "The old building was rife with rumors of being haunted.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "sporadic",
+    "definition": "Occurring at irregular intervals or only in a few places; scattered",
+    "example": "There were sporadic showers throughout the day, but mostly it was sunny.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "ballad",
+    "definition": "A poem or song narrating a story in short stanzas",
+    "example": "The folk singer performed a traditional ballad about lost love.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pip",
+    "definition": "A small hard seed in a fruit; or a spot on dice or dominoes",
+    "example": "She carefully removed every pip from the apple before eating it.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "revitalise",
+    "definition": "To give new life and vitality to something",
+    "example": "The new playground helped revitalise the neighborhood park.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "feral",
+    "definition": "Wild, especially after escape from captivity or domestication",
+    "example": "The feral cats lived in the abandoned warehouse and avoided humans.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "vexed",
+    "definition": "Annoyed, frustrated, or worried",
+    "example": "She was vexed by the complicated instructions that made no sense.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "uncanny",
+    "definition": "Strange or mysterious, especially in an unsettling way",
+    "example": "The twins had an uncanny ability to know what each other was thinking.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "residual",
+    "definition": "Remaining after the greater part or quantity has gone",
+    "example": "Even after cleaning, there was still a residual smell of paint in the room.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "heirloom",
+    "definition": "A valuable object that has belonged to a family for several generations",
+    "example": "The antique necklace was a family heirloom passed down from her great-grandmother.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "bobsleigh",
+    "definition": "A mechanically steered and braked sledge used for racing down an ice track",
+    "example": "The Olympic bobsleigh team practiced on the icy track every morning.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "denim",
+    "definition": "A sturdy cotton fabric used for making jeans and other clothing",
+    "example": "His denim jacket was perfect for the casual outdoor concert.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "fiasco",
+    "definition": "A complete failure, especially a ludicrous or humiliating one",
+    "example": "The school play was a fiasco when the scenery collapsed during the first act.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "debacle",
+    "definition": "A sudden and ignominious failure; a complete disaster",
+    "example": "The company's product launch turned into a debacle when the main feature didn't work.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "emporium",
+    "definition": "A large retail store selling a wide variety of goods",
+    "example": "The toy emporium had everything from dolls to model trains on its three floors.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "boutique",
+    "definition": "A small store selling fashionable clothes or accessories",
+    "example": "She found a unique dress at the little boutique downtown.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pliable",
+    "definition": "Easily bent, flexible; or easily influenced",
+    "example": "The pliable wire could be shaped into any form needed for the art project.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "yardstick",
+    "definition": "A standard used for comparison; or a measuring stick one yard long",
+    "example": "Customer satisfaction is the yardstick by which we measure our success.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "vineyard",
+    "definition": "A plantation of grapevines, typically producing grapes for winemaking",
+    "example": "The vineyard covered the entire hillside with rows of grapevines.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "anticipation",
+    "definition": "The emotion of looking forward to something with pleasure",
+    "example": "The children waited in anticipation for the arrival of the circus.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "guffaw",
+    "definition": "A loud and boisterous laugh",
+    "example": "His joke caused everyone to break into guffaws at the dinner table.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "chortle",
+    "definition": "To laugh in a gleeful or chuckling way",
+    "example": "The baby chortled with delight when his father made funny faces.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "racket",
+    "definition": "A loud unpleasant noise; or a fraudulent scheme",
+    "example": "The construction work next door made such a racket that nobody could concentrate.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pandemonium",
+    "definition": "Wild and noisy disorder or confusion; uproar",
+    "example": "When the fire alarm went off, pandemonium broke out as everyone rushed for the exits.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "nonchalance",
+    "definition": "The state of being relaxed and not showing anxiety, interest, or enthusiasm",
+    "example": "Despite the chaos around him, he maintained an air of nonchalance.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "synchronise",
+    "definition": "To cause to occur or operate at the same time or rate",
+    "example": "The swimmers tried to synchronise their movements during the routine.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "confined",
+    "definition": "Restricted in area or volume; limited",
+    "example": "The patient was confined to bed rest for a week after the surgery.",
+    "partOfSpeech": "adjective/verb (past tense)"
+  },
+  {
+    "word": "confinement",
+    "definition": "The state of being confined; restriction of liberty",
+    "example": "After months of confinement due to illness, she was eager to go outside.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "deft",
+    "definition": "Neatly skillful and quick in one's movements",
+    "example": "The chef's deft hands quickly chopped the vegetables into perfect pieces.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "adept",
+    "definition": "Very skilled or proficient at something",
+    "example": "She was adept at solving complex mathematical problems.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "rind",
+    "definition": "The tough outer skin of fruit, cheese, or bacon",
+    "example": "He carefully removed the rind from the cheese before serving it.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "zeal",
+    "definition": "Great energy or enthusiasm in pursuit of a cause or objective",
+    "example": "The volunteer worked with great zeal to help the flood victims.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "zest",
+    "definition": "Great enthusiasm and energy; or the outer peel of citrus fruit",
+    "example": "She approached every project with zest and determination.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "condiment",
+    "definition": "A substance such as salt, mustard, or pickle that is used to add flavor to food",
+    "example": "The hot dog stand offered various condiments including ketchup, mustard, and relish.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "snooker",
+    "definition": "A game played with cues on a billiard table; or to deceive or cheat",
+    "example": "They spent the evening playing snooker at the local club.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "impulsive",
+    "definition": "Acting suddenly without careful consideration",
+    "example": "His impulsive decision to quit his job surprised everyone, including himself.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "noxious",
+    "definition": "Harmful, poisonous, or very unpleasant",
+    "example": "The noxious fumes from the factory made residents feel sick.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "rowdy",
+    "definition": "Noisy and disorderly",
+    "example": "The rowdy crowd at the concert had to be calmed down by security.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "render",
+    "definition": "To provide or give a service, help, or payment; or to cause to be or become",
+    "example": "The accident rendered the car completely unusable.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "vacate",
+    "definition": "To give up the occupancy of; to leave empty",
+    "example": "The tenants had to vacate the apartment by the end of the month.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "askew",
+    "definition": "To one side; out of the proper position",
+    "example": "The picture on the wall hung askew after the earthquake.",
+    "partOfSpeech": "adverb/adjective"
+  },
+  {
+    "word": "stairwell",
+    "definition": "A shaft in which stairs are located",
+    "example": "Emergency lights illuminated the stairwell during the power outage.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "wildcard",
+    "definition": "A playing card that can represent any card chosen; or an unpredictable element",
+    "example": "The new player was a wildcard who could completely change the team's strategy.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "radical",
+    "definition": "Relating to or affecting the fundamental nature of something; extreme",
+    "example": "The company made radical changes to its business model to stay competitive.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "barb",
+    "definition": "A sharp projection or critical remark intended to hurt",
+    "example": "Her barb about his cooking skills stung more than she intended.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "prod",
+    "definition": "To poke with a finger, foot, or pointed object; to encourage or urge",
+    "example": "His mother had to prod him several times before he finally started his homework.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "staunch",
+    "definition": "Very loyal and committed; or to stop the flow of something",
+    "example": "She was a staunch supporter of environmental protection throughout her career.",
+    "partOfSpeech": "adjective/verb"
+  },
+  {
+    "word": "assuredly",
+    "definition": "Without doubt; certainly",
+    "example": "The team will assuredly win the championship if they continue playing this well.",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "brutish",
+    "definition": "Resembling or characteristic of a brute; cruel and unpleasant",
+    "example": "The brutish behavior of the bully made other students afraid to speak up.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "jeopardy",
+    "definition": "Danger of loss, harm, or failure",
+    "example": "His reckless driving put everyone in the car in jeopardy.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "compiling",
+    "definition": "Collecting and assembling information to form something",
+    "example": "The researcher spent months compiling data for her report on climate change.",
+    "partOfSpeech": "verb (present participle)"
+  },
+  {
+    "word": "dais",
+    "definition": "A raised platform for speakers at the front of a hall or room",
+    "example": "The principal stood on the dais to address the entire school assembly.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pauper",
+    "definition": "A very poor person",
+    "example": "Despite being born a pauper, he worked hard to become a successful businessman.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "brash",
+    "definition": "Self-assertive in a rude, noisy, or overbearing way",
+    "example": "The brash young executive interrupted the meeting with his own ideas.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "kestrel",
+    "definition": "A small falcon that hovers while hunting for small mammals",
+    "example": "The kestrel circled overhead, searching for mice in the field below.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sett",
+    "definition": "A badger's den",
+    "example": "The naturalist discovered a badger sett hidden among the roots of an old oak tree.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sole",
+    "definition": "One and only; single; or the bottom of a foot or shoe",
+    "example": "She was the sole survivor of the plane crash.",
+    "partOfSpeech": "adjective/noun"
+  },
+  {
+    "word": "drake",
+    "definition": "A male duck",
+    "example": "The colorful drake led a group of female ducks across the pond.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "stallion",
+    "definition": "An adult male horse",
+    "example": "The magnificent black stallion galloped freely across the meadow.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "oboe",
+    "definition": "A woodwind instrument with a double reed",
+    "example": "The oboe's haunting melody carried beautifully across the concert hall.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "brackish",
+    "definition": "Water that is slightly salty, as occurs where rivers meet the sea",
+    "example": "Many unique plants thrive in the brackish water of coastal marshes.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "spur",
+    "definition": "A device worn on a rider's heel to urge a horse forward; or to encourage or prompt",
+    "example": "The approaching deadline spurred the team to work faster.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "spar",
+    "definition": "To box, especially for practice; or a strong pole used to support rigging on a ship",
+    "example": "The two boxers sparred gently during training to practice their technique.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "veal",
+    "definition": "The meat of a young calf",
+    "example": "The restaurant served veal cutlets with a delicate lemon sauce.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "wintry",
+    "definition": "Characteristic of winter; cold or bleak",
+    "example": "The wintry wind made everyone hurry indoors for warmth.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "parsnip",
+    "definition": "A long tapering cream-colored root vegetable",
+    "example": "She roasted parsnips with carrots and potatoes for the Sunday dinner.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "steeplechase",
+    "definition": "A horse race run on a racecourse having ditches and hedges as jumps",
+    "example": "The steeplechase was the most exciting event at the horse racing festival.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "incompetent",
+    "definition": "Not having or showing the necessary skills to do something successfully",
+    "example": "The incompetent repair worker made the problem worse instead of fixing it.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "feudalism",
+    "definition": "A medieval European system where land was held in exchange for service to a lord",
+    "example": "Students learned about feudalism and how it shaped medieval European society.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "mitigate",
+    "definition": "To make less severe, serious, or painful",
+    "example": "The new flood barriers helped mitigate damage during the heavy rains.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "onyx",
+    "definition": "A semiprecious stone with alternating light and dark bands",
+    "example": "The chess set was carved from beautiful black and white onyx.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "opal",
+    "definition": "A gemstone showing many colors in reflected light",
+    "example": "The opal ring sparkled with flashes of blue, green, and pink.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "fuchsia",
+    "definition": "A vivid purplish-red color; or a plant with drooping flowers",
+    "example": "She painted her bedroom wall a bright fuchsia that could be seen from across the street.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "hawthorn",
+    "definition": "A thorny shrub or tree with white, pink, or red flowers",
+    "example": "The hawthorn hedge provided natural protection around the cottage garden.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "gaggle",
+    "definition": "A flock of geese; or a disorderly group of people",
+    "example": "A gaggle of tourists gathered around the famous monument for photos.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "gosling",
+    "definition": "A young goose",
+    "example": "The mother goose led her goslings to the safety of the water.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "gander",
+    "definition": "A male goose; or a quick look",
+    "example": "Take a gander at this beautiful sunset over the lake.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "epoch",
+    "definition": "A period of time marked by distinctive characteristics or events",
+    "example": "The invention of the internet marked a new epoch in human communication.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "saline",
+    "definition": "Containing salt; salty",
+    "example": "The nurse cleaned the wound with saline solution.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "forage",
+    "definition": "To search widely for food or provisions",
+    "example": "The squirrels foraged for nuts to store before winter arrived.",
+    "partOfSpeech": "verb"
   }
 ];
 
