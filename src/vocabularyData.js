@@ -7738,6 +7738,1176 @@ const allWords = [
     "definition": "To search widely for food or provisions",
     "example": "The squirrels foraged for nuts to store before winter arrived.",
     "partOfSpeech": "verb"
+  },
+  {
+    "word": "liaison",
+    "definition": "Communication or cooperation between groups; or a secret romantic relationship",
+    "example": "The teacher served as a liaison between the parents and the school administration.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "petite",
+    "definition": "Small and dainty in build; of small size",
+    "example": "The petite dancer moved gracefully across the stage.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "dijon",
+    "definition": "A type of mustard that originated in Dijon, France",
+    "example": "She spread dijon mustard on her sandwich for extra flavor.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "flaxen",
+    "definition": "Of a pale yellow color like flax; typically describing hair",
+    "example": "The little girl had beautiful flaxen hair that shone in the sunlight.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "tuscan sun",
+    "definition": "A warm, golden yellow-orange color reminiscent of the Tuscan countryside",
+    "example": "They painted the kitchen wall in tuscan sun to create a warm, welcoming atmosphere.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "medallion",
+    "definition": "A piece of jewelry worn on a chain around the neck; or a circular decorative design",
+    "example": "He wore a gold medallion that had been passed down through generations.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "chartreuse",
+    "definition": "A bright yellow-green color",
+    "example": "The chartreuse dress was so bright it could be seen from across the room.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "juniper",
+    "definition": "An evergreen shrub with small berries used to flavor gin",
+    "example": "The gin was flavored with juniper berries for a distinctive taste.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "shamrock",
+    "definition": "A three-leafed plant used as the national emblem of Ireland",
+    "example": "People wear shamrock pins on St. Patrick's Day to celebrate Irish heritage.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "parakeet",
+    "definition": "A small, long-tailed parrot, typically brightly colored",
+    "example": "The bright green parakeet chattered cheerfully in its cage.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "seafoam",
+    "definition": "A pale blue-green color like foam on the sea",
+    "example": "The bathroom was painted in a calming seafoam green.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "slate",
+    "definition": "A dark gray rock used for roofing; or a dark gray color",
+    "example": "The old house had a slate roof that had lasted for decades.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "cobalt",
+    "definition": "A deep blue color; or a metallic chemical element",
+    "example": "The artist used cobalt blue paint to create the dramatic sky in her painting.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "azure",
+    "definition": "A bright blue color like a clear sky",
+    "example": "The azure waters of the Caribbean were incredibly beautiful.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "cerulean",
+    "definition": "A deep sky-blue color",
+    "example": "The cerulean dress matched the color of the summer sky perfectly.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "aegean",
+    "definition": "A blue-green color reminiscent of the Aegean Sea",
+    "example": "The tiles were painted in aegean blue to match the Mediterranean theme.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "denim",
+    "definition": "A sturdy cotton fabric, typically blue, used for making jeans",
+    "example": "His denim jacket was perfect for the casual weekend outing.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "alabaster",
+    "definition": "A translucent white or cream-colored stone; or very pale and smooth",
+    "example": "Her alabaster skin looked porcelain-like in the moonlight.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "chiffon",
+    "definition": "A light, sheer fabric typically made of silk or nylon",
+    "example": "The bride's chiffon veil flowed gracefully behind her as she walked down the aisle.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "granola",
+    "definition": "A breakfast food of rolled oats, nuts, and honey",
+    "example": "She enjoyed a bowl of granola with fresh berries for breakfast.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "egg nog",
+    "definition": "A rich drink made with eggs, cream, and usually alcohol, traditionally consumed at Christmas",
+    "example": "The family gathered around the fireplace to share egg nog during the holidays.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sepia",
+    "definition": "A warm brown color used in old-fashioned photography",
+    "example": "The old family photographs were printed in sepia tones.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "latte",
+    "definition": "A coffee drink made with espresso and steamed milk",
+    "example": "She ordered a vanilla latte to warm up on the cold morning.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "biscotti",
+    "definition": "Italian twice-baked cookies, often served with coffee",
+    "example": "He dipped the almond biscotti into his espresso.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "parmesan",
+    "definition": "A hard, aged Italian cheese with a sharp flavor",
+    "example": "She grated fresh parmesan cheese over the pasta.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sand dollar",
+    "definition": "A flat, round sea urchin found on sandy beaches",
+    "example": "The children collected sand dollars while walking along the shore.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "cider",
+    "definition": "An alcoholic drink made from fermented apple juice",
+    "example": "They enjoyed warm spiced cider around the campfire.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "cantaloupe",
+    "definition": "A type of orange-fleshed melon",
+    "example": "The ripe cantaloupe was sweet and juicy for the fruit salad.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "yam",
+    "definition": "A sweet, starchy root vegetable",
+    "example": "Roasted yams were served as a side dish for Thanksgiving dinner.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "merlot",
+    "definition": "A type of red wine grape and the wine made from it",
+    "example": "They enjoyed a glass of merlot with their dinner.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "garnet",
+    "definition": "A deep red gemstone; or the color of this stone",
+    "example": "Her garnet earrings sparkled like tiny rubies in the candlelight.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "mahogany",
+    "definition": "A hard, reddish-brown wood; or the color of this wood",
+    "example": "The dining table was made of beautiful mahogany wood.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "sangria",
+    "definition": "A Spanish drink of red wine mixed with fruit and other ingredients",
+    "example": "The restaurant served refreshing sangria with dinner on the patio.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "fuchsia",
+    "definition": "A vivid purplish-red color; or a plant with drooping flowers",
+    "example": "She chose fuchsia lipstick to match her bold personality.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "rouge",
+    "definition": "A red cosmetic for coloring the cheeks or lips",
+    "example": "In the old days, ladies applied rouge to give their cheeks a rosy glow.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "rosewood",
+    "definition": "A hard, dark wood with a rose-like scent; or its reddish-brown color",
+    "example": "The piano was made of expensive rosewood and had a beautiful finish.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "taffy",
+    "definition": "A chewy candy made by stretching boiled sugar",
+    "example": "The children enjoyed saltwater taffy from the boardwalk candy shop.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "crepe",
+    "definition": "A thin pancake; or a light, crinkled fabric",
+    "example": "They served strawberry crepes for brunch at the French restaurant.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "mauve",
+    "definition": "A pale purple color",
+    "example": "The bridesmaids wore mauve dresses that complemented the spring flowers.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "boysenberry",
+    "definition": "A large, dark reddish-purple berry; or its color",
+    "example": "The boysenberry pie had a rich, sweet-tart flavor.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "periwinkle",
+    "definition": "A light blue-purple color; or a small flowering plant",
+    "example": "The nursery was painted in a soft periwinkle blue.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "mulberry",
+    "definition": "A dark purple-red color; or a tree that produces berries",
+    "example": "She wore a mulberry silk scarf that complemented her outfit perfectly.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "mocha",
+    "definition": "A coffee drink with chocolate; or a brown color",
+    "example": "He ordered a mocha latte with extra whipped cream.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "carob",
+    "definition": "A brown pod used as a chocolate substitute; or its brown color",
+    "example": "The health-conscious baker used carob instead of chocolate in the cookies.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "hickory",
+    "definition": "A type of North American tree with hard wood; or its light brown color",
+    "example": "The kitchen cabinets were made from beautiful hickory wood.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "umber",
+    "definition": "A natural brown earth pigment; or a dark brown color",
+    "example": "The artist used burnt umber to create the shadows in her painting.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "tawny",
+    "definition": "An orange-brown or yellowish-brown color",
+    "example": "The tawny owl blended perfectly with the autumn leaves.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "brunette",
+    "definition": "A person with dark brown hair; or having dark brown hair",
+    "example": "The brunette actress was known for her striking beauty.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "cedar",
+    "definition": "An evergreen tree with fragrant wood; or its reddish-brown color",
+    "example": "The cedar chest kept the clothes smelling fresh and protected from moths.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pewter",
+    "definition": "A metal alloy; or its dull gray color",
+    "example": "The antique pewter tankard was displayed in the museum.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "porpoise",
+    "definition": "A small whale with a blunt snout; or its gray color",
+    "example": "A pod of porpoises played in the waves near the boat.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "ebony",
+    "definition": "A very hard, dark wood; or a deep black color",
+    "example": "The piano keys were made of ebony and ivory.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "raven",
+    "definition": "A large black bird; or a glossy black color",
+    "example": "Her raven hair shone like silk in the moonlight.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "onyx",
+    "definition": "A semiprecious stone with bands of color; or deep black",
+    "example": "The onyx chess set was a beautiful contrast of black and white.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "soot",
+    "definition": "A black powdery substance produced by burning; or its black color",
+    "example": "The chimney sweep was covered in soot from cleaning the fireplace.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sable",
+    "definition": "A small mammal with dark fur; or a very dark brown or black color",
+    "example": "The luxury coat was made from sable fur.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "jade",
+    "definition": "A hard green stone used in jewelry; or its green color",
+    "example": "The jade bracelet was a gift from her grandmother.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "wistful",
+    "definition": "Having or showing a feeling of vague or regretful longing",
+    "example": "She had a wistful expression as she looked through old photo albums.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "irate",
+    "definition": "Feeling or showing extreme anger",
+    "example": "The irate customer demanded to speak to the manager about the poor service.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "assent",
+    "definition": "The expression of approval or agreement",
+    "example": "The committee gave their assent to the proposed changes.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "heinous",
+    "definition": "Utterly odious or wicked",
+    "example": "The heinous crime shocked the entire community.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "subversive",
+    "definition": "Seeking or intended to subvert or overthrow an established system",
+    "example": "The government considered the writer's ideas to be subversive.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "renegade",
+    "definition": "A person who deserts and betrays an organization or set of principles",
+    "example": "The renegade soldier switched sides during the battle.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "abhorrent",
+    "definition": "Inspiring disgust and loathing; repugnant",
+    "example": "Most people find cruelty to animals abhorrent.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "errant",
+    "definition": "Straying from the proper course or standards",
+    "example": "The errant golf ball smashed through the neighbor's window.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "relinquish",
+    "definition": "To voluntarily cease to keep or claim; give up",
+    "example": "She was forced to relinquish her title as champion after the scandal.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "vocation",
+    "definition": "A strong feeling of suitability for a particular career; a calling",
+    "example": "Teaching was her true vocation, not just a job.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "guillotine",
+    "definition": "A machine with a heavy blade for beheading people; or a paper cutter",
+    "example": "The office guillotine was used to cut large stacks of paper.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "hob",
+    "definition": "A cooking surface on a stove; or a mythical mischievous sprite",
+    "example": "She placed the kettle on the hob to boil water for tea.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "ked",
+    "definition": "A wingless fly that parasitizes sheep and other animals",
+    "example": "The veterinarian treated the sheep for ked infestation.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "slew",
+    "definition": "A large number or quantity; or past tense of slay",
+    "example": "There were a slew of problems to solve before the project could continue.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "gherkins",
+    "definition": "Small pickled cucumbers",
+    "example": "The sandwich was garnished with tangy gherkins and onions.",
+    "partOfSpeech": "noun (plural)"
+  },
+  {
+    "word": "credulous",
+    "definition": "Having or showing too great a readiness to believe things",
+    "example": "The credulous tourists believed every story the guide told them.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "gullible",
+    "definition": "Easily persuaded to believe something; credulous",
+    "example": "He was so gullible that he fell for every prank his friends played.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "donor",
+    "definition": "A person who gives something, especially to a charity or medical cause",
+    "example": "The generous donor contributed millions to the hospital's cancer research.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sesquipedalian",
+    "definition": "Given to using long words; or characterized by long words",
+    "example": "The professor's sesquipedalian speaking style confused many students.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "the penny dropped",
+    "definition": "Someone suddenly understood or realized something",
+    "example": "After staring at the math problem for ages, the penny finally dropped and she solved it.",
+    "partOfSpeech": "idiom"
+  },
+  {
+    "word": "acquiesce",
+    "definition": "To accept something reluctantly without protest",
+    "example": "After much debate, the committee decided to acquiesce to the chairman's demands.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "cordial",
+    "definition": "Warm and friendly; or a sweet fruit-flavored drink",
+    "example": "The host gave them a cordial welcome when they arrived.",
+    "partOfSpeech": "adjective/noun"
+  },
+  {
+    "word": "allusion",
+    "definition": "An indirect reference to something",
+    "example": "The poem contained an allusion to Shakespeare's Romeo and Juliet.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "allege",
+    "definition": "To claim or assert that someone has done something wrong, without proof",
+    "example": "The newspaper alleged that the mayor had accepted bribes.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "cite",
+    "definition": "To quote or refer to as evidence or an example",
+    "example": "She cited several studies to support her argument about climate change.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "veer",
+    "definition": "To change direction suddenly",
+    "example": "The car veered sharply to avoid hitting the deer in the road.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "snub",
+    "definition": "To rebuff, ignore, or spurn disdainfully",
+    "example": "She felt hurt when her former friend snubbed her at the party.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "hatchet",
+    "definition": "A small ax with a short handle",
+    "example": "He used a hatchet to chop kindling for the campfire.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "cleaver",
+    "definition": "A heavy, broad-bladed knife used by butchers",
+    "example": "The chef used a cleaver to cut through the thick bone.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "haven",
+    "definition": "A place of safety or refuge",
+    "example": "The library was a peaceful haven from the noisy city streets.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "shaven",
+    "definition": "Having the hair removed by shaving",
+    "example": "His clean-shaven face made him look younger than his age.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "fickle",
+    "definition": "Changing frequently, especially regarding one's loyalties or affections",
+    "example": "The fickle weather changed from sunny to stormy within an hour.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "incessant",
+    "definition": "Continuing without pause or interruption",
+    "example": "The incessant noise from the construction site kept everyone awake.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "meagre",
+    "definition": "Lacking in quantity or quality; insufficient",
+    "example": "His meagre salary barely covered the basic living expenses.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "substandard",
+    "definition": "Below the usual or required standard; inferior",
+    "example": "The substandard construction led to problems with the building.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "surplus",
+    "definition": "An amount left over when requirements have been met; excess",
+    "example": "The farm had a surplus of apples this year due to perfect growing conditions.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "relegate",
+    "definition": "To assign to an inferior rank or position",
+    "example": "After poor performance, the team was relegated to a lower division.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "commend",
+    "definition": "To praise formally or officially",
+    "example": "The principal commended the students for their excellent behavior during the field trip.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "advocate",
+    "definition": "A person who publicly supports a particular cause; or to publicly recommend",
+    "example": "She is a strong advocate for children's rights.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "ardent",
+    "definition": "Enthusiastic or passionate",
+    "example": "He was an ardent supporter of environmental protection.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "candid",
+    "definition": "Truthful and straightforward; frank",
+    "example": "She gave a candid interview about her struggles with addiction.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "reticent",
+    "definition": "Not revealing one's thoughts or feelings readily",
+    "example": "The reticent teenager rarely spoke about his feelings to his parents.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "explicit",
+    "definition": "Stated clearly and in detail, leaving no room for confusion",
+    "example": "The teacher gave explicit instructions about how to complete the assignment.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "redundant",
+    "definition": "Not needed because something else serves the same purpose; superfluous",
+    "example": "The new software made the old system redundant.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "mediocre",
+    "definition": "Of only moderate or low quality; not very good",
+    "example": "The movie received mediocre reviews from critics.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "beret",
+    "definition": "A round, flat cap typically made of wool or felt",
+    "example": "The artist wore a classic black beret while painting in the park.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "neckerchief",
+    "definition": "A square of cloth worn around the neck",
+    "example": "The scout wore a neckerchief as part of the official uniform.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "chic",
+    "definition": "Elegantly and stylishly fashionable",
+    "example": "Her chic outfit turned heads at the fashion show.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "witless",
+    "definition": "Foolish; lacking intelligence or wit",
+    "example": "His witless comments embarrassed everyone at the dinner party.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "inept",
+    "definition": "Showing no skill; clumsy",
+    "example": "The inept waiter spilled soup on three different customers.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "muster",
+    "definition": "To gather or assemble; or to summon up courage or strength",
+    "example": "She had to muster all her courage before giving the important speech.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "delegate",
+    "definition": "A person sent to represent others; or to entrust a task to another",
+    "example": "Each state sent a delegate to the national convention.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "raucous",
+    "definition": "Making or constituting a disturbingly harsh and loud noise",
+    "example": "The raucous laughter from the comedy club could be heard from the street.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "vexing",
+    "definition": "Causing annoyance, frustration, or worry",
+    "example": "The vexing problem of traffic congestion needed an immediate solution.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "potent",
+    "definition": "Having great power, influence, or effect",
+    "example": "The medicine was potent and provided quick relief from pain.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "defame",
+    "definition": "To damage the good reputation of someone by saying or writing bad things",
+    "example": "The newspaper was sued for trying to defame the politician with false stories.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "undermine",
+    "definition": "To erode the base or foundation of something; to weaken gradually",
+    "example": "Constant criticism began to undermine her confidence.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "carpentry",
+    "definition": "The work of cutting and joining wood in construction",
+    "example": "He learned carpentry from his grandfather and became skilled at building furniture.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "demure",
+    "definition": "Reserved, modest, and shy in manner",
+    "example": "Despite her success, she remained demure and soft-spoken in interviews.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "reciprocate",
+    "definition": "To respond to a gesture or action by making a corresponding one",
+    "example": "She sent him a gift, and he felt obliged to reciprocate her kindness.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "recitation",
+    "definition": "The action of repeating something aloud from memory",
+    "example": "The student's recitation of the poem was flawless and moving.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "recidivism",
+    "definition": "The tendency of a convicted criminal to reoffend",
+    "example": "The rehabilitation program aimed to reduce recidivism rates among former prisoners.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "demur",
+    "definition": "To raise doubts or objections; to show reluctance",
+    "example": "When asked to work overtime again, several employees began to demur.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "bile",
+    "definition": "A bitter fluid produced by the liver; or anger and irritability",
+    "example": "His speech was full of bile and resentment toward his opponents.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "carp",
+    "definition": "To complain continually; or a type of freshwater fish",
+    "example": "Instead of carping about the problem, why don't you suggest a solution?",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "repress",
+    "definition": "To subdue or restrain by force; to hold back emotions",
+    "example": "She tried to repress her anger during the difficult meeting.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "representational",
+    "definition": "Relating to or characterized by depiction of things as they actually appear",
+    "example": "The artist preferred representational painting over abstract art.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "etymology",
+    "definition": "The study of the origin and history of words",
+    "example": "The etymology of the word 'silly' shows it originally meant 'blessed' in Old English.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "trump",
+    "definition": "To surpass or beat; or a playing card of the suit chosen to rank above others",
+    "example": "Her excellent presentation trumped all the other proposals.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "returnable",
+    "definition": "Able to be returned or given back",
+    "example": "The glass bottles were returnable for a small deposit refund.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "reticulum",
+    "definition": "A network of fine tubes or fibers; the second stomach of a ruminant",
+    "example": "The endoplasmic reticulum is an important structure in plant and animal cells.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "transitive",
+    "definition": "A verb that requires a direct object to complete its meaning",
+    "example": "In the sentence 'She reads books,' the verb 'reads' is transitive.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "ummah",
+    "definition": "The worldwide community of Muslims",
+    "example": "The concept of ummah emphasizes unity among Muslims regardless of nationality.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "secular",
+    "definition": "Not connected with religious or spiritual matters",
+    "example": "The country has a secular government that separates religion from politics.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "inane",
+    "definition": "Lacking sense or meaning; silly",
+    "example": "The comedian's inane jokes failed to amuse the sophisticated audience.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "exalt",
+    "definition": "To praise enthusiastically; to raise to a higher rank or position",
+    "example": "The biography exalted the hero's courage and dedication to his country.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "conceited",
+    "definition": "Excessively proud of oneself; showing vanity",
+    "example": "The conceited actor refused to sign autographs for his fans.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "flog",
+    "definition": "To beat with a whip or stick as punishment; to sell something",
+    "example": "The street vendor was trying to flog his handmade jewelry to tourists.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "carnation",
+    "definition": "A fragrant flower with frilled petals, typically pink or white",
+    "example": "He wore a red carnation in his buttonhole for the wedding ceremony.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "beeline",
+    "definition": "A straight line between two places; the most direct route",
+    "example": "When the bell rang, the children made a beeline for the playground.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "flex",
+    "definition": "To bend a limb or joint; to show off one's muscles or abilities",
+    "example": "The gymnast had to flex her wrist carefully after the injury.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "flecks",
+    "definition": "Small patches or spots of color or light",
+    "example": "The artist added gold flecks to the painting to make it sparkle.",
+    "partOfSpeech": "noun (plural)"
+  },
+  {
+    "word": "receptive",
+    "definition": "Willing to consider or accept new suggestions and ideas",
+    "example": "The students were receptive to the teacher's innovative teaching methods.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "tardy",
+    "definition": "Slow to act or happen; late",
+    "example": "The tardy student apologized for arriving after the lesson had begun.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "sombre",
+    "definition": "Dark or dull in color or tone; having a serious mood",
+    "example": "The funeral was a sombre occasion with everyone dressed in black.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "privy",
+    "definition": "Sharing in the knowledge of something secret; or an outdoor toilet",
+    "example": "Only a few trusted advisors were privy to the president's plans.",
+    "partOfSpeech": "adjective/noun"
+  },
+  {
+    "word": "charisma",
+    "definition": "Compelling attractiveness or charm that inspires devotion in others",
+    "example": "The politician's charisma helped him win over crowds during his campaign.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "tout",
+    "definition": "To promote or praise energetically; to solicit business",
+    "example": "The company touted its new product as revolutionary technology.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "banal",
+    "definition": "So lacking in originality as to be obvious and boring",
+    "example": "The movie's banal plot failed to engage the audience.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "accomplice",
+    "definition": "A person who helps another commit a crime",
+    "example": "The police arrested both the thief and his accomplice who drove the getaway car.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "confide",
+    "definition": "To tell someone about a secret or private matter while trusting them not to repeat it",
+    "example": "She confided in her best friend about her fears regarding the job interview.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "tome",
+    "definition": "A book, especially a large, heavy, scholarly one",
+    "example": "The professor carried a thick tome on ancient history under his arm.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "thyme",
+    "definition": "A small aromatic herb used in cooking",
+    "example": "She added fresh thyme to the roasted vegetables for extra flavor.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "oral",
+    "definition": "Spoken rather than written; relating to the mouth",
+    "example": "The students had to take both written and oral examinations.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "pipeline",
+    "definition": "A long pipe for conveying water, oil, or gas; or a system for developing something",
+    "example": "The company has several new products in the pipeline for next year.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "abhorrent",
+    "definition": "Inspiring disgust and loathing; repugnant",
+    "example": "Most civilized people find violence against children abhorrent.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "jocular",
+    "definition": "Fond of joking; humorous or playful",
+    "example": "His jocular manner made him popular at parties and social gatherings.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "rancour",
+    "definition": "Bitterness or resentfulness, especially long-lasting",
+    "example": "Despite their divorce, they managed to avoid rancour for the sake of their children.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "erudite",
+    "definition": "Having or showing great knowledge gained from reading and study",
+    "example": "The erudite professor could discuss literature from many different cultures.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "farce",
+    "definition": "A comedy based on ridiculous situations; or an absurd event",
+    "example": "The election turned into a farce when none of the candidates showed up to debate.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "dane",
+    "definition": "A person from Denmark; or a Great Dane dog",
+    "example": "The friendly Dane taught us some basic Danish phrases during our visit.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "phoenix",
+    "definition": "A mythical bird that rises from its own ashes; something reborn or renewed",
+    "example": "The city rose like a phoenix from the ashes after the devastating earthquake.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "cider",
+    "definition": "An alcoholic drink made from fermented apple juice",
+    "example": "They enjoyed warm spiced cider by the fireplace on the cold winter evening.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "redwood",
+    "definition": "A very tall evergreen tree; or its reddish wood",
+    "example": "The ancient redwood forest contained trees over a thousand years old.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "lupin",
+    "definition": "A plant with tall spikes of colorful flowers",
+    "example": "The garden was beautiful with purple and pink lupins blooming along the border.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "plimsoll",
+    "definition": "A canvas sports shoe with a rubber sole",
+    "example": "The children wore plimsolls for their physical education class.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "scallop",
+    "definition": "A marine shellfish; or to cut in a decorative wavy pattern",
+    "example": "The chef prepared pan-seared scallops with a butter sauce.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "bugle",
+    "definition": "A brass instrument similar to a trumpet but without valves",
+    "example": "The soldier played reveille on his bugle to wake the troops at dawn.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "wimp",
+    "definition": "A weak and cowardly person",
+    "example": "Don't be such a wimp—the water isn't that cold!",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "buck",
+    "definition": "A male deer; or to resist or oppose something",
+    "example": "The majestic buck stood at the edge of the forest, watching the hikers.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "malt",
+    "definition": "Barley that has been steeped and dried for brewing; or a malted drink",
+    "example": "The brewery used the finest malt to produce their award-winning beer.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "atone",
+    "definition": "To make amends for wrongdoing or injury",
+    "example": "He tried to atone for his mistakes by volunteering at the community center.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "donor",
+    "definition": "A person who gives something, especially to a charity or for medical use",
+    "example": "The anonymous donor contributed millions to the children's hospital.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "dank",
+    "definition": "Disagreeably damp, musty, and typically cold",
+    "example": "The basement was dank and smelled of mildew after the flooding.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "citrus",
+    "definition": "A group of fruits including oranges, lemons, limes, and grapefruits",
+    "example": "The vitamin C in citrus fruits helps boost the immune system.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "mesh",
+    "definition": "Material made of connected strands forming a net; or to combine well",
+    "example": "The wire mesh fence kept the rabbits out of the vegetable garden.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "rasp",
+    "definition": "A harsh, grating sound; or a coarse file; or to make such a sound",
+    "example": "His voice had developed a rasp after years of smoking.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "couscous",
+    "definition": "A North African dish of steamed semolina granules",
+    "example": "The restaurant served lamb tagine with fluffy couscous and vegetables.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "taint",
+    "definition": "To contaminate or pollute; or a trace of something bad or undesirable",
+    "example": "The scandal tainted his reputation for years to come.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "lea",
+    "definition": "An open area of grassy land; a meadow",
+    "example": "The sheep grazed peacefully in the green lea beside the stream.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sill",
+    "definition": "A horizontal piece forming the bottom of a window or door frame",
+    "example": "She placed potted herbs on the kitchen window sill to catch the morning sun.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "analogy",
+    "definition": "A comparison between two things to explain or clarify something",
+    "example": "The teacher used the analogy of a heart as a pump to explain circulation.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "loll",
+    "definition": "To sit, lie, or stand in a lazy, relaxed way",
+    "example": "The cat lolled in the sunny spot by the window all afternoon.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "dole",
+    "definition": "Government benefit paid to unemployed people; or to distribute sparingly",
+    "example": "After losing his job, he had to rely on the dole until he found new employment.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "brink",
+    "definition": "The extreme edge of something; a critical point",
+    "example": "The company was on the brink of bankruptcy before the new investor arrived.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "dwindle",
+    "definition": "To diminish gradually in size, amount, or strength",
+    "example": "Their savings began to dwindle after months of unemployment.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "detest",
+    "definition": "To dislike intensely; to hate",
+    "example": "She detested having to wake up early for work every morning.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "genial",
+    "definition": "Friendly and cheerful; having a pleasant manner",
+    "example": "The genial host made sure all guests felt welcome at the party.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "sham",
+    "definition": "Something that is not what it appears to be; fake or false",
+    "example": "The antique turned out to be a sham, made only last year.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "maim",
+    "definition": "To wound or injure someone permanently",
+    "example": "The accident maimed his left hand, affecting his ability to play piano.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "bran",
+    "definition": "The hard outer layer of cereal grain",
+    "example": "She added wheat bran to her muffin recipe for extra fiber.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "elan",
+    "definition": "Energy, style, and enthusiasm",
+    "example": "The young dancer performed with remarkable elan and grace.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "beet",
+    "definition": "A root vegetable, typically dark red",
+    "example": "The salad was topped with sliced roasted beets and goat cheese.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "teem",
+    "definition": "To be full of or swarming with",
+    "example": "The pond teemed with fish and aquatic life during the summer months.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "prominent",
+    "definition": "Important, famous, or noticeable; projecting outward",
+    "example": "She became a prominent figure in the environmental movement.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "abstruse",
+    "definition": "Difficult to understand; obscure",
+    "example": "The professor's abstruse lecture on quantum physics confused most students.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "vitality",
+    "definition": "The state of being strong, active, and energetic; liveliness",
+    "example": "Despite her advanced age, she maintained remarkable vitality and enthusiasm.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "effervescence",
+    "definition": "Vivacity and enthusiasm; or the quality of giving off bubbles",
+    "example": "Her natural effervescence made her the life of every party she attended.",
+    "partOfSpeech": "noun"
   }
 ];
 
