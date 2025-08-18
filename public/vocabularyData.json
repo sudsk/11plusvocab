@@ -8908,5 +8908,779 @@
     "definition": "Vivacity and enthusiasm; or the quality of giving off bubbles",
     "example": "Her natural effervescence made her the life of every party she attended.",
     "partOfSpeech": "noun"
+  },
+  {
+    "word": "curt",
+    "definition": "Rudely brief; abrupt in speech or manner",
+    "example": "His curt reply showed he was annoyed by the interruption.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "font",
+    "definition": "A set of type of one particular style and size; or a basin for holy water",
+    "example": "The designer chose a modern font for the company's new logo.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "iguana",
+    "definition": "A large tropical lizard with a spiny crest along its back",
+    "example": "The green iguana basked in the sun on the warm rock.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "bough",
+    "definition": "A main branch of a tree",
+    "example": "The heavy snow caused the oak's largest bough to break.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "filly",
+    "definition": "A young female horse, especially one less than four years old",
+    "example": "The spirited filly galloped around the paddock with boundless energy.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "candid",
+    "definition": "Truthful and straightforward; frank",
+    "example": "She gave a candid interview about her struggles with addiction.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "fret",
+    "definition": "To be constantly or visibly worried or anxious",
+    "example": "Don't fret about the test; you've studied well and will do fine.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "thee",
+    "definition": "An archaic form of 'you' used as the object of a verb",
+    "example": "The poem contained the line 'I love thee with all my heart.'",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "word": "heed",
+    "definition": "To pay careful attention to; to take notice of",
+    "example": "You should heed the weather warnings and stay indoors during the storm.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "aviary",
+    "definition": "A large cage or enclosure for keeping birds",
+    "example": "The zoo's new aviary houses over fifty species of tropical birds.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "spur",
+    "definition": "A spike worn on a rider's heel to urge a horse forward; or to encourage",
+    "example": "The approaching deadline spurred the team to work faster.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "wren",
+    "definition": "A small brown songbird with a short tail",
+    "example": "The tiny wren built its nest in the hedge beside the garden path.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pleat",
+    "definition": "A fold in fabric held by stitching the top or side",
+    "example": "The school uniform skirt had three pleats on each side.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "peat",
+    "definition": "Partly decomposed organic matter used as fuel or fertilizer",
+    "example": "The gardener mixed peat into the soil to help the plants grow better.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "mackerel",
+    "definition": "A fast-swimming fish with dark wavy lines on its back",
+    "example": "Fresh mackerel was grilled with lemon and herbs for dinner.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "flippant",
+    "definition": "Not showing proper respect or seriousness; treating serious things lightly",
+    "example": "His flippant remarks during the memorial service upset many people.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "adder",
+    "definition": "A venomous snake, the only poisonous snake native to Britain",
+    "example": "Hikers were warned to watch for adders on the moorland paths.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "impasse",
+    "definition": "A situation in which no progress is possible; a deadlock",
+    "example": "The negotiations reached an impasse when neither side would compromise.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "marsupial",
+    "definition": "A mammal whose young are born incompletely developed and carried in a pouch",
+    "example": "The kangaroo is Australia's most famous marsupial.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "fodder",
+    "definition": "Food for livestock; or material for a particular use",
+    "example": "The farmer stored hay as winter fodder for his cattle.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "unadorned",
+    "definition": "Not decorated or embellished; plain and simple",
+    "example": "She preferred the unadorned truth rather than a sugar-coated version.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "herring",
+    "definition": "A silvery fish that travels in large schools",
+    "example": "Pickled herring is a traditional dish in many Scandinavian countries.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "tack",
+    "definition": "A small nail with a sharp point; or to change direction",
+    "example": "She used small tacks to hang the poster on the bulletin board.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "dank",
+    "definition": "Disagreeably damp, musty, and typically cold",
+    "example": "The basement was dank and smelled of mildew after the flooding.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "pedigree",
+    "definition": "The record of ancestry of an animal; or a person's background",
+    "example": "The show dog had an impressive pedigree dating back five generations.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "coax",
+    "definition": "To persuade someone gently to do something",
+    "example": "She tried to coax the frightened cat out from under the bed.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "din",
+    "definition": "A loud, unpleasant, and prolonged noise",
+    "example": "The din from the construction site made it impossible to concentrate.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "aptitude",
+    "definition": "A natural ability or talent for learning something",
+    "example": "She showed great aptitude for mathematics from an early age.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "cob",
+    "definition": "The central core of an ear of corn; or a male swan",
+    "example": "After eating the kernels, they threw the corn cob on the compost pile.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "tar",
+    "definition": "A thick, dark substance obtained from coal or wood; or a sailor",
+    "example": "The road crew spread hot tar to repair the potholes.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "mar",
+    "definition": "To damage or spoil the appearance or quality of something",
+    "example": "A small scratch marred the surface of the antique table.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "pad",
+    "definition": "A thick piece of soft material; or to add unnecessary material",
+    "example": "She used a heating pad to soothe her sore muscles.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "poplar",
+    "definition": "A fast-growing tree with soft wood and trembling leaves",
+    "example": "The row of tall poplars provided a windbreak for the farmhouse.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "birch",
+    "definition": "A tree with thin, often white bark and small leaves",
+    "example": "The silver birch trees looked beautiful with their distinctive white bark.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "lass",
+    "definition": "A young woman or girl",
+    "example": "The bonny lass sang folk songs at the village festival.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sieve",
+    "definition": "A utensil with holes for straining solids from liquids",
+    "example": "She used a fine sieve to strain the lumps from the sauce.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "mare",
+    "definition": "An adult female horse",
+    "example": "The gentle mare was perfect for teaching children how to ride.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "ode",
+    "definition": "A type of lyrical poem expressing deep feelings or thoughts",
+    "example": "The poet wrote an ode to celebrate the beauty of spring.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "err",
+    "definition": "To make a mistake or be incorrect",
+    "example": "It's better to err on the side of caution when crossing busy streets.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "rote",
+    "definition": "Mechanical memorization without understanding",
+    "example": "Learning the multiplication tables by rote helped with quick calculations.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "aver",
+    "definition": "To state or declare positively; to affirm",
+    "example": "The witness continued to aver that she had seen the suspect at the scene.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "par",
+    "definition": "The standard or expected level; equality in value",
+    "example": "Her performance was well above par for someone with so little experience.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "snip",
+    "definition": "To cut with small, quick strokes using scissors",
+    "example": "She used the scissors to snip the loose thread from her shirt.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "sue",
+    "definition": "To take legal action against someone",
+    "example": "The family decided to sue the company for damages after the accident.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "onus",
+    "definition": "A burden of responsibility; something that is one's duty",
+    "example": "The onus is on the prosecution to prove the defendant's guilt.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "creche",
+    "definition": "A nursery for young children; or a nativity scene",
+    "example": "The working parents enrolled their toddler in the local creche.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "scalp",
+    "definition": "The skin covering the top of the head; or to resell at inflated prices",
+    "example": "The dermatologist examined his scalp for signs of irritation.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "weir",
+    "definition": "A low dam built across a river to regulate water flow",
+    "example": "Salmon gathered below the weir, preparing to leap upstream.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sash",
+    "definition": "A strip of cloth worn over the shoulder or around the waist",
+    "example": "The beauty queen wore a satin sash across her evening gown.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "ream",
+    "definition": "A quantity of paper, typically 500 sheets",
+    "example": "The office manager ordered several reams of copy paper for the printers.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "dine",
+    "definition": "To eat dinner, especially formally",
+    "example": "They chose to dine at the elegant restaurant for their anniversary.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "sun-dried",
+    "definition": "Dried naturally by exposure to the sun",
+    "example": "The salad was topped with sun-dried tomatoes and fresh basil.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "forthright",
+    "definition": "Direct and honest in speech or action",
+    "example": "His forthright manner sometimes offended people, but they always knew where they stood.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "superfluous",
+    "definition": "Unnecessary; more than is needed",
+    "example": "The editor removed superfluous words to make the article more concise.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "petroleum",
+    "definition": "A liquid mixture of hydrocarbons found underground; crude oil",
+    "example": "The country's economy relies heavily on petroleum exports.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sediment",
+    "definition": "Matter that settles to the bottom of a liquid",
+    "example": "Layers of sediment in the rock revealed the area's geological history.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "discord",
+    "definition": "Disagreement or conflict between people",
+    "example": "The discord between the two political parties made cooperation difficult.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "wickerwork",
+    "definition": "Material or articles made from interwoven twigs or canes",
+    "example": "The cottage garden featured a charming wickerwork fence.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "laden",
+    "definition": "Heavily loaded or weighed down",
+    "example": "The apple tree was laden with fruit ready for harvesting.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "elusive",
+    "definition": "Difficult to find, catch, or achieve",
+    "example": "The solution to the math problem remained elusive despite hours of work.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "deem",
+    "definition": "To regard or consider in a specified way",
+    "example": "The committee deemed the proposal worthy of further consideration.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "dene",
+    "definition": "A valley, especially a narrow wooded valley",
+    "example": "The hiking trail wound through a peaceful dene filled with wildflowers.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "dole",
+    "definition": "Government benefit paid to unemployed people; or to distribute",
+    "example": "After losing his job, he reluctantly applied for the dole.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "buss",
+    "definition": "To kiss; or an omnibus",
+    "example": "The grandmother gave each child a buss on the cheek before they left.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "busk",
+    "definition": "To play music in the street for voluntary donations",
+    "example": "The talented musician chose to busk in the busy town square.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "pert",
+    "definition": "Lively or cheeky, especially in an attractive way",
+    "example": "The child's pert reply made the adults smile despite the situation.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "scorn",
+    "definition": "A feeling of contempt or disdain; or to feel or express contempt",
+    "example": "She looked at him with scorn after he broke his promise again.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "enigma",
+    "definition": "A person or thing that is mysterious or difficult to understand",
+    "example": "The ancient symbol remained an enigma that archaeologists couldn't decode.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "adverse",
+    "definition": "Preventing success or development; harmful or unfavorable",
+    "example": "Adverse weather conditions forced the cancellation of the outdoor concert.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "infatuated",
+    "definition": "Possessed with an intense but short-lived passion or admiration",
+    "example": "He became infatuated with the movie star after watching her latest film.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "malodorous",
+    "definition": "Having an unpleasant smell",
+    "example": "The malodorous garbage needed to be removed immediately.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "hotelier",
+    "definition": "A person who owns or manages a hotel",
+    "example": "The experienced hotelier knew how to make every guest feel welcome.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "chocolatier",
+    "definition": "A person who makes or sells chocolate",
+    "example": "The skilled chocolatier created beautiful hand-crafted truffles.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "refrain",
+    "definition": "To abstain from doing something; or a repeated line in a song",
+    "example": "Please refrain from talking during the performance.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "bile",
+    "definition": "A bitter fluid produced by the liver; or anger and bitterness",
+    "example": "His speech was full of bile and resentment toward his opponents.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "gunner",
+    "definition": "A person who operates a gun, especially in the military",
+    "example": "The experienced gunner accurately hit the target from a great distance.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "barter",
+    "definition": "To exchange goods or services without using money",
+    "example": "In the village market, people still barter vegetables for handmade crafts.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "bran",
+    "definition": "The hard outer layer of cereal grain",
+    "example": "She added wheat bran to her cereal for extra fiber.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pall",
+    "definition": "A dark cloud or covering; or to become less appealing",
+    "example": "A pall of smoke hung over the city after the factory fire.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "gnu",
+    "definition": "A large African antelope with a curved horns; a wildebeest",
+    "example": "The herd of gnu migrated across the African savanna.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "urn",
+    "definition": "A large vase or container, often used for ashes or decoration",
+    "example": "The ancient Greek urn displayed beautiful painted scenes.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "sate",
+    "definition": "To satisfy fully; to supply with as much as can be consumed",
+    "example": "The large meal was enough to sate his hunger after the long hike.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "reciprocal",
+    "definition": "Given, felt, or done in return; mutual",
+    "example": "They had a reciprocal agreement to help each other during busy seasons.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "faun",
+    "definition": "A mythological creature with a human torso and goat's legs",
+    "example": "The garden statue depicted a faun playing panpipes among the flowers.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "muffler",
+    "definition": "A scarf worn around the neck; or a device that reduces engine noise",
+    "example": "She wrapped her wool muffler tightly against the cold wind.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "mothballs",
+    "definition": "Small balls of chemical pesticide used to protect stored clothing from moths",
+    "example": "The old coat smelled of mothballs after being stored for years.",
+    "partOfSpeech": "noun (plural)"
+  },
+  {
+    "word": "impair",
+    "definition": "To weaken or damage something",
+    "example": "The injury may impair his ability to play professional sports.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "trooped",
+    "definition": "Moved in a group; came or went together",
+    "example": "The children trooped into the classroom after recess.",
+    "partOfSpeech": "verb (past tense)"
+  },
+  {
+    "word": "ember",
+    "definition": "A small piece of burning or glowing coal or wood",
+    "example": "They roasted marshmallows over the glowing embers of the campfire.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "slat",
+    "definition": "A thin, narrow piece of wood or metal",
+    "example": "One slat in the wooden fence had broken during the storm.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "matt",
+    "definition": "Having a dull, flat finish without shine",
+    "example": "They chose matt paint for the bedroom walls instead of glossy.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "dame",
+    "definition": "A woman; or a title of honor for a woman",
+    "example": "Dame Judi Dench is a respected British actress.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "lest",
+    "definition": "For fear that; in case",
+    "example": "She spoke quietly lest she wake the sleeping baby.",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "word": "sine",
+    "definition": "A mathematical function used in trigonometry",
+    "example": "Students learned to calculate the sine of various angles in math class.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pane",
+    "definition": "A single sheet of glass in a window",
+    "example": "The baseball cracked the window pane but didn't shatter it completely.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "aped",
+    "definition": "Imitated or copied someone's behavior",
+    "example": "The younger brother aped everything his older sibling did.",
+    "partOfSpeech": "verb (past tense)"
+  },
+  {
+    "word": "apt",
+    "definition": "Appropriate or suitable; having a natural tendency",
+    "example": "Her apt description of the situation helped everyone understand the problem.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "ales",
+    "definition": "Types of beer brewed using warm fermentation",
+    "example": "The pub offered several local ales on tap for customers to try.",
+    "partOfSpeech": "noun (plural)"
+  },
+  {
+    "word": "deciduous",
+    "definition": "Falling off at maturity or at certain seasons; describing trees that lose leaves",
+    "example": "Oak and maple are deciduous trees that lose their leaves each autumn.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "queer",
+    "definition": "Strange or odd; different from what is usual",
+    "example": "There was something queer about the way the old house creaked at night.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "fervently",
+    "definition": "With great intensity of feeling; passionately",
+    "example": "She fervently believed that education could change the world.",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "word": "toil",
+    "definition": "To work extremely hard; exhausting physical labor",
+    "example": "The farmers toiled in the fields from dawn until dusk during harvest season.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "convict",
+    "definition": "To declare someone guilty of a criminal offense; or a person serving a prison sentence",
+    "example": "The jury took only two hours to convict the defendant of theft.",
+    "partOfSpeech": "verb/noun"
+  },
+  {
+    "word": "ire",
+    "definition": "Anger; wrath",
+    "example": "The politician's comments drew the ire of environmental groups.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "ampere",
+    "definition": "A unit of electric current",
+    "example": "The electrician measured the current in amperes to ensure the circuit was safe.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "rut",
+    "definition": "A groove or furrow; or a fixed routine that is difficult to change",
+    "example": "The wagon wheels created deep ruts in the muddy road.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "imp",
+    "definition": "A small devil or mischievous sprite; a mischievous child",
+    "example": "The little imp hid behind the couch and jumped out to scare his sister.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "rue",
+    "definition": "To feel regret or remorse about something",
+    "example": "He came to rue his hasty decision to quit his job without notice.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "rend",
+    "definition": "To tear something apart with force",
+    "example": "The powerful winds threatened to rend the old oak tree from its roots.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "rand",
+    "definition": "The monetary unit of South Africa; or a border or margin",
+    "example": "The tourist exchanged dollars for rand before visiting South Africa.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "oscillate",
+    "definition": "To move back and forth in a regular rhythm",
+    "example": "The pendulum continued to oscillate even after the clock stopped working.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "hybrid",
+    "definition": "Something made by combining two different elements",
+    "example": "The hybrid car uses both gasoline and electric power for better fuel efficiency.",
+    "partOfSpeech": "noun/adjective"
+  },
+  {
+    "word": "sup",
+    "definition": "To have supper; to eat or drink something",
+    "example": "They gathered to sup together on the traditional holiday meal.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "plateau",
+    "definition": "A flat elevated area of land; or a state of little change after a period of growth",
+    "example": "After months of improvement, his test scores reached a plateau.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "hourglass",
+    "definition": "A device for measuring time using sand falling through a narrow opening",
+    "example": "The antique hourglass on the desk took exactly one hour for all the sand to fall through.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "terminus",
+    "definition": "The end of a railroad or other transportation route",
+    "example": "The bus terminus was crowded with travelers waiting for their connections.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "singe",
+    "definition": "To burn superficially; to scorch slightly",
+    "example": "Be careful not to singe your eyebrows when lighting the candles.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "barometer",
+    "definition": "An instrument for measuring atmospheric pressure; an indicator of change",
+    "example": "The falling barometer indicated that a storm was approaching.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "inertia",
+    "definition": "A tendency to do nothing or remain unchanged; resistance to motion",
+    "example": "The team's inertia prevented them from making necessary changes to improve performance.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "inferred",
+    "definition": "Deduced or concluded from evidence and reasoning",
+    "example": "From the dark clouds, she inferred that rain was likely.",
+    "partOfSpeech": "verb (past tense)"
+  },
+  {
+    "word": "ignominious",
+    "definition": "Deserving or causing public disgrace or shame",
+    "example": "The team's ignominious defeat in the championship surprised all their fans.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "billiard",
+    "definition": "Relating to a game played with cues and balls on a cloth-covered table",
+    "example": "The billiard hall was popular with players who enjoyed the challenging game.",
+    "partOfSpeech": "adjective/noun"
+  },
+  {
+    "word": "semiprecious",
+    "definition": "Denoting a gemstone that is less valuable than precious stones",
+    "example": "The necklace was made with semiprecious stones like amethyst and turquoise.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "nosedived",
+    "definition": "Dropped rapidly and dramatically",
+    "example": "The company's stock price nosedived after the scandal was revealed.",
+    "partOfSpeech": "verb (past tense)"
+  },
+  {
+    "word": "resurgence",
+    "definition": "An increase or revival after a period of little activity",
+    "example": "There has been a resurgence of interest in traditional crafts among young people.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "opulent",
+    "definition": "Extremely luxurious or wealthy",
+    "example": "The opulent mansion featured marble floors, crystal chandeliers, and gold fixtures.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "androgynous",
+    "definition": "Having both masculine and feminine characteristics; not clearly male or female",
+    "example": "The model's androgynous appearance made them popular for both men's and women's fashion.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "cater",
+    "definition": "To provide food and service for events; or to provide what is needed or required",
+    "example": "The restaurant agreed to cater the wedding reception for two hundred guests.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "tarts",
+    "definition": "Open pastries with sweet or savory fillings",
+    "example": "The bakery displayed beautiful fruit tarts in the window to attract customers.",
+    "partOfSpeech": "noun (plural)"
   }
 ]
