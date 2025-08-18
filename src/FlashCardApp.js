@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import vocabularyWords from './vocabularyData';
+//import vocabularyWords from './vocabularyData';
 
 const FlashCardApp = () => {
   // Original state variables
@@ -8,6 +8,11 @@ const FlashCardApp = () => {
   const [showList, setShowList] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [showAlphabetical, setShowAlphabetical] = useState(false);
+
+  // Add these hooks at the top of your component:
+  const [vocabularyWords, setVocabularyWords] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
   
   // New state variables for randomness
   const [isRandomized, setIsRandomized] = useState(false);
@@ -34,6 +39,25 @@ const FlashCardApp = () => {
     }
   };
 
+  // Add this useEffect to load data:
+  useEffect(() => {
+    const loadVocabulary = async () => {
+      try {
+        const response = await fetch('/vocabularyData.json');
+        if (!response.ok) {
+          throw new Error('Failed to load vocabulary data');
+        }
+        const data = await response.json();
+        setVocabularyWords(data);
+      } catch (err) {
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+  
+    loadVocabulary();
+  }, []);
   // Function to shuffle cards
   const shuffleCards = () => {
     // Create a copy of the original array
