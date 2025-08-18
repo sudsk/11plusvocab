@@ -34,7 +34,7 @@ const FlashCardApp = () => {
   useEffect(() => {
     const loadVocabulary = async () => {
       try {
-        const response = await fetch('/vocabularyData.json');
+        const response = await fetch('./vocabularyData.json');
         if (!response.ok) {
           throw new Error('Failed to load vocabulary data');
         }
