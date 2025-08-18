@@ -39,7 +39,10 @@ const FlashCardApp = () => {
           throw new Error('Failed to load vocabulary data');
         }
         const data = await response.json();
-        setVocabularyWords(data);
+        
+        // Deduplicate here
+        const deduplicatedData = removeDuplicates(data);
+        setVocabularyWords(deduplicatedData);
       } catch (err) {
         setError(err.message);
       } finally {
@@ -49,6 +52,22 @@ const FlashCardApp = () => {
   
     loadVocabulary();
   }, []);
+  
+  // Add the deduplication function to your component:
+  const removeDuplicates = (wordArray) => {
+    const wordMap = new Map();
+    
+    return wordArray.filter(wordObj => {
+      const lowerCaseWord = wordObj.word.toLowerCase();
+      
+      if (!wordMap.has(lowerCaseWord)) {
+        wordMap.set(lowerCaseWord, true);
+        return true;
+      }
+      
+      return false;
+    });
+  };
 
   const handleJumpToCard = () => {
     const cardNumber = parseInt(jumpToCard);
