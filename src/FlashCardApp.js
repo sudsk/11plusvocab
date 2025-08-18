@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react'; // Add useEffect import
 //import vocabularyWords from './vocabularyData';
 
 const FlashCardApp = () => {
@@ -30,15 +30,6 @@ const FlashCardApp = () => {
 
   const [jumpToCard, setJumpToCard] = useState('');
 
-  const handleJumpToCard = () => {
-    const cardNumber = parseInt(jumpToCard);
-    if (cardNumber >= 1 && cardNumber <= displayWords.length) {
-      setCurrentIndex(cardNumber - 1); // Convert to 0-based index
-      setJumpToCard('');
-      setShowDefinition(false);
-    }
-  };
-
   // Add this useEffect to load data:
   useEffect(() => {
     const loadVocabulary = async () => {
@@ -58,6 +49,16 @@ const FlashCardApp = () => {
   
     loadVocabulary();
   }, []);
+
+  const handleJumpToCard = () => {
+    const cardNumber = parseInt(jumpToCard);
+    if (cardNumber >= 1 && cardNumber <= displayWords.length) {
+      setCurrentIndex(cardNumber - 1); // Convert to 0-based index
+      setJumpToCard('');
+      setShowDefinition(false);
+    }
+  };
+
   // Function to shuffle cards
   const shuffleCards = () => {
     // Create a copy of the original array
@@ -194,6 +195,20 @@ const FlashCardApp = () => {
     ? [...filteredWords].sort((a, b) => a.word.localeCompare(b.word))
     : filteredWords;
 
+  // Add loading state to your render:
+  if (loading) {
+    return <div className="flex justify-center items-center h-64 text-xl">Loading vocabulary...</div>;
+  }
+
+  if (error) {
+    return <div className="flex justify-center items-center h-64 text-red-500 text-xl">Error: {error}</div>;
+  }
+
+  // Add safety check for empty vocabulary
+  if (vocabularyWords.length === 0) {
+    return <div className="flex justify-center items-center h-64 text-xl">No vocabulary words found.</div>;
+  }
+
   return (
     <div className="flex flex-col items-center p-4 max-w-4xl mx-auto">
       <h1 className="text-2xl font-bold mb-6">Year 5 Vocabulary Flash Cards</h1>
@@ -257,15 +272,15 @@ const FlashCardApp = () => {
               {isRandomized && <span className="ml-2 text-blue-600">(Shuffled)</span>}
             </div>
             <div className="flex-grow flex flex-col justify-center items-center p-6 pb-8 text-center">
-              <h2 className="text-3xl font-bold mb-4">{displayWords[currentIndex].word}</h2>
-              <p className="text-gray-500 italic mb-2">{displayWords[currentIndex].partOfSpeech}</p>
+              <h2 className="text-3xl font-bold mb-4">{displayWords[currentIndex]?.word}</h2>
+              <p className="text-gray-500 italic mb-2">{displayWords[currentIndex]?.partOfSpeech}</p>
               
               {showDefinition && (
                 <div className="mt-2 text-left w-full">
                   <p className="font-semibold">Definition:</p>
-                  <p className="mb-2">{displayWords[currentIndex].definition}</p>
+                  <p className="mb-2">{displayWords[currentIndex]?.definition}</p>
                   <p className="font-semibold">Example:</p>
-                  <p className="italic">{displayWords[currentIndex].example}</p>
+                  <p className="italic">{displayWords[currentIndex]?.example}</p>
                 </div>
               )}
             </div>
@@ -347,8 +362,8 @@ const FlashCardApp = () => {
               </div>
               
               <div className="p-6">
-                <h2 className="text-2xl font-bold mb-6 text-center">{quizWords[currentQuizIndex].word}</h2>
-                <p className="text-gray-500 italic text-center mb-6">{quizWords[currentQuizIndex].partOfSpeech}</p>
+                <h2 className="text-2xl font-bold mb-6 text-center">{quizWords[currentQuizIndex]?.word}</h2>
+                <p className="text-gray-500 italic text-center mb-6">{quizWords[currentQuizIndex]?.partOfSpeech}</p>
                 
                 <p className="mb-4 font-medium">What is the definition of this word?</p>
                 
