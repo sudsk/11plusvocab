@@ -9682,5 +9682,203 @@
       "definition": "Open pastries with sweet or savory fillings",
       "example": "The bakery displayed beautiful fruit tarts in the window to attract customers.",
       "partOfSpeech": "noun (plural)"
-   }
+   },
+  {
+    "word": "paltry",
+    "definition": "Very small or meager in amount; insignificant or worthless",
+    "example": "The paltry sum offered for the antique was insulting to the seller.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "scandalous",
+    "definition": "Causing general public outrage by a perceived offense against morality or law",
+    "example": "The newspaper published scandalous details about the politician's private life.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "chanting",
+    "definition": "Speaking or singing in a repetitive, rhythmic way",
+    "example": "The protesters were chanting slogans as they marched through the streets.",
+    "partOfSpeech": "verb (present participle)"
+  },
+  {
+    "word": "humdrum",
+    "definition": "Lacking excitement or variety; dull and monotonous",
+    "example": "After years of humdrum office work, she decided to travel the world.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "kettledrum",
+    "definition": "A large drum with a round copper or brass body and a membrane that can be tuned",
+    "example": "The kettledrum provided the dramatic thunderous sound in the orchestra.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "counterpart",
+    "definition": "A person or thing that corresponds to or has the same function as another",
+    "example": "The British Foreign Secretary met with his American counterpart to discuss trade.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "counterbalance",
+    "definition": "A weight that balances another weight; or to have an opposing and balancing effect",
+    "example": "The benefits of the new policy counterbalance its potential drawbacks.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "walkway",
+    "definition": "A path designed for people to walk on",
+    "example": "The covered walkway connected the two buildings and protected pedestrians from rain.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "counteract",
+    "definition": "To act against something in order to reduce its force or neutralize it",
+    "example": "The antidote was given to counteract the effects of the poison.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "upstage",
+    "definition": "To divert attention from someone to oneself; or toward the back of a theater stage",
+    "example": "The younger actor tried to upstage the lead by overacting in every scene.",
+    "partOfSpeech": "verb/adverb"
+  },
+  {
+    "word": "bookend",
+    "definition": "A support placed at the end of a row of books; or to occur at the beginning and end of something",
+    "example": "Heavy bookends kept the reference volumes from falling over.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "abode",
+    "definition": "A place where someone lives; a dwelling",
+    "example": "The cottage in the countryside became their peaceful abode for retirement.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "culpable",
+    "definition": "Deserving blame or censure; responsible for wrongdoing",
+    "example": "The investigation found the company culpable for the environmental damage.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "competent",
+    "definition": "Having the necessary ability, knowledge, or skill to do something successfully",
+    "example": "The competent surgeon performed the complex operation with skill and precision.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "meticulous",
+    "definition": "Showing great attention to detail; very careful and precise",
+    "example": "The watchmaker's meticulous craftsmanship was evident in every tiny component.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "ransack",
+    "definition": "To search through a place causing damage; to go through thoroughly",
+    "example": "Burglars ransacked the house looking for valuables while the family was away.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "dissect",
+    "definition": "To cut up a body or plant to study its structure; to analyze in detail",
+    "example": "Students dissected frogs in biology class to learn about amphibian anatomy.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "idyllic",
+    "definition": "Extremely happy, peaceful, or picturesque; perfect or idealized",
+    "example": "They spent an idyllic afternoon picnicking by the lake surrounded by wildflowers.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "cajole",
+    "definition": "To persuade someone to do something by coaxing or flattery",
+    "example": "She tried to cajole her brother into lending her money for the concert tickets.",
+    "partOfSpeech": "verb"
+  },
+  {
+    "word": "grisly",
+    "definition": "Causing horror or disgust; gruesome",
+    "example": "The detective was disturbed by the grisly crime scene evidence.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "resentful",
+    "definition": "Feeling or expressing bitterness at having been treated unfairly",
+    "example": "He remained resentful toward his former business partner for years after their dispute.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "lenient",
+    "definition": "More merciful or tolerant than expected; not harsh in punishment",
+    "example": "The judge was lenient with first-time offenders, giving them community service instead of jail time.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "adept",
+    "definition": "Very skilled or proficient at something",
+    "example": "She became adept at using the complex software after just a few training sessions.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "imbued",
+    "definition": "Inspired or permeated with a quality or feeling",
+    "example": "Her paintings were imbued with a sense of melancholy that moved viewers to tears.",
+    "partOfSpeech": "verb (past participle)"
+  },
+  {
+    "word": "culinary",
+    "definition": "Relating to cooking or the preparation of food",
+    "example": "The chef attended culinary school to perfect her skills in French cuisine.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "verisimilitude",
+    "definition": "The appearance of being true or real; believability",
+    "example": "The historical novel's verisimilitude made readers feel they were experiencing the past firsthand.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "pesticide",
+    "definition": "A chemical substance used to kill insects or other organisms harmful to plants",
+    "example": "Farmers must be careful when applying pesticide to crops to avoid contaminating water sources.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "conscientiousness",
+    "definition": "The quality of being thorough, careful, and dutiful",
+    "example": "Her conscientiousness at work earned her recognition from management and colleagues alike.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "impertinent",
+    "definition": "Not showing proper respect; rude or insolent",
+    "example": "The student's impertinent response to the teacher resulted in detention.",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "word": "saffron",
+    "definition": "A spice derived from a flower, known for its golden color and distinctive flavor",
+    "example": "The chef added a pinch of expensive saffron to give the rice its characteristic golden color.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "tamarind",
+    "definition": "A tropical fruit with a sweet and sour taste, often used in cooking",
+    "example": "The curry's tangy flavor came from the tamarind paste added during cooking.",
+    "partOfSpeech": "noun"
+  },
+  {
+    "word": "fritter",
+    "definition": "A piece of fruit or other food coated in batter and deep-fried; or to waste time or money",
+    "example": "The apple fritters at the county fair were crispy on the outside and tender inside.",
+    "partOfSpeech": "noun/verb"
+  },
+  {
+    "word": "griddle",
+    "definition": "A flat metal plate used for cooking food over heat",
+    "example": "She cooked pancakes on the hot griddle, flipping them when bubbles formed on the surface.",
+    "partOfSpeech": "noun"
+  }   
 ]
